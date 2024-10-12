@@ -20,12 +20,12 @@ if __name__ == '__main__':
         read_me_entries.append("\n## Top reports:")
     filepath = report_classifier.classify_top_100_reports_with_highest_upvotes(reports)
     filename = _get_formatted_filename(filepath)
-    report_entry = f"1. [{filename}]({filepath})"
+    report_entry = f"1. [{filename}]({str(filepath).replace("\\", "/")})"
     read_me_entries.append(report_entry)
 
     filepath = report_classifier.classify_top_100_reports_with_highest_bounty(reports)
     filename = _get_formatted_filename(filepath)
-    report_entry = f"2. [{filename}]({filepath})"
+    report_entry = f"2. [{filename}]({str(filepath).replace("\\", "/")})"
     read_me_entries.append(report_entry)
 
     vulnerability_types = sorted({report.get("vulnerability_type") for report in reports if report.get("vulnerability_type")})
@@ -34,7 +34,7 @@ if __name__ == '__main__':
     for i, vulnerability_type in enumerate(vulnerability_types):
         filepath = report_classifier.classify_reports_by_vulnerability_type(reports, vulnerability_type)
         filename = _get_formatted_filename(filepath)
-        report_entry = f"{i + 1}. [{filename}]({filepath})"
+        report_entry = f"{i + 1}. [{filename}]({str(filepath).replace("\\", "/")})"
         read_me_entries.append(report_entry)
 
     severities = sorted({report.get("severity") for report in reports if report.get("severity")})
@@ -43,7 +43,7 @@ if __name__ == '__main__':
     for i, severity in enumerate(severities):
         filepath = report_classifier.classify_reports_by_severity(reports, severity)
         filename = _get_formatted_filename(filepath)
-        report_entry = f"{i + 1}. [{filename}]({filepath})"
+        report_entry = f"{i + 1}. [{filename}]({str(filepath).replace("\\", "/")})"
         read_me_entries.append(report_entry)
 
     asset_types = sorted({report.get("asset_type") for report in reports if report.get("asset_type")})
@@ -52,7 +52,7 @@ if __name__ == '__main__':
     for i, asset_type in enumerate(asset_types):
         filepath = report_classifier.classify_reports_by_asset_type(reports, asset_type)
         filename = _get_formatted_filename(filepath)
-        report_entry = f"{i + 1}. [{filename}]({filepath})"
+        report_entry = f"{i + 1}. [{filename}]({str(filepath).replace("\\", "/")})"
         read_me_entries.append(report_entry)
 
     if len(read_me_entries):
