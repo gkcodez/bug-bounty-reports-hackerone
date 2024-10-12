@@ -1,4 +1,4 @@
-## Reports in mattermost program from HackerOne:
+## Reports in mattermost program:
 1. [Mattermost Server OAuth Flow Cross-Site Scripting](https://hackerone.com/reports/1216203) | $900.0 bounty
 2. [Reset password link sent over unsecured http protocol](https://hackerone.com/reports/1888915) | $750.0 bounty
 3. [DoS via large console messages](https://hackerone.com/reports/1243724) | $150.0 bounty

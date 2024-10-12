@@ -1,4 +1,4 @@
-## Reports in ruby on rails program from HackerOne:
+## Reports in ruby on rails program:
 1. [Remote code execution using render :inline](https://hackerone.com/reports/113928) | $1500.0 bounty
 2. [Path Traversal on Default Installed Rails Application (Asset Pipeline)](https://hackerone.com/reports/307808) | $1500.0 bounty
 3. [Validation bypass for queries generated for PostgreSQL](https://hackerone.com/reports/394253) | $1500.0 bounty

@@ -1,4 +1,4 @@
-## Reports in gratipay program from HackerOne:
+## Reports in gratipay program:
 1. [upgrade Aspen on inside.gratipay.com to pick up CR injection fix](https://hackerone.com/reports/143139) | $40.0 bounty
 2. [Send email asynchronously](https://hackerone.com/reports/128856) | $10.0 bounty
 3. [Prevent content spoofing on /~username/emails/verify.html](https://hackerone.com/reports/117187) | $10.0 bounty

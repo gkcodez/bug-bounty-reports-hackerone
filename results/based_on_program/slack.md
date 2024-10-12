@@ -1,4 +1,4 @@
-## Reports in slack program from HackerOne:
+## Reports in slack program:
 1. [Access to some Slack workspace metadata and settings available to unauthorized parties](https://hackerone.com/reports/130133) | $7000.0 bounty
 2. [Stored XSS through PDF viewer](https://hackerone.com/reports/881557) | $4875.0 bounty
 3. [SSRF via Office file thumbnails](https://hackerone.com/reports/671935) | $4000.0 bounty

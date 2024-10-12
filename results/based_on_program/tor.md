@@ -1,4 +1,4 @@
-## Reports in tor program from HackerOne:
+## Reports in tor program:
 1. [Linux TBB SFTP URI allows local IP disclosure](https://hackerone.com/reports/253429) | $3000.0 bounty
 2. [Use-after-free during XML transformations (MFSA-2016-27)](https://hackerone.com/reports/126797) | $300.0 bounty
 3. ['Request English versions of web pages for enhanced privacy' keeps previous (grayed out) settings ](https://hackerone.com/reports/2123957) | $200.0 bounty

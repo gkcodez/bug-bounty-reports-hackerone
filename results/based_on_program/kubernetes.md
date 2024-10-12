@@ -1,4 +1,4 @@
-## Reports in kubernetes program from HackerOne:
+## Reports in kubernetes program:
 1. [Half-Blind SSRF found in kube/cloud-controller-manager can be upgraded to complete SSRF (fully crafted HTTP requests) in vendor managed k8s service.](https://hackerone.com/reports/776017) | $5000.0 bounty
 2. [CVE-2023-5528: Insufficient input sanitization in in-tree storage plugin leads to privilege escalation on Windows nodes](https://hackerone.com/reports/2231019) | $5000.0 bounty
 3. [Ingress-nginx path allows retrieval of ingress-nginx serviceaccount token](https://hackerone.com/reports/1382919) | $2500.0 bounty

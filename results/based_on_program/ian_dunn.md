@@ -1,4 +1,4 @@
-## Reports in ian dunn program from HackerOne:
+## Reports in ian dunn program:
 1. [Bypass fix in https://hackerone.com/reports/151516 report.](https://hackerone.com/reports/160520) | $100.0 bounty
 2. [unchecked unserialize usages in audit-trail-extension/audit-trail-extension.php](https://hackerone.com/reports/185909) | $50.0 bounty
 3. [Formula injection via CSV exports in WordCamp Talks plugin](https://hackerone.com/reports/277525) | $50.0 bounty

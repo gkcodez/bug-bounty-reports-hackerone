@@ -1,4 +1,4 @@
-## Reports in mozilla program from HackerOne:
+## Reports in mozilla program:
 1. [HTML Injection / Reflected Cross-Site Scripting with CSP on https://accounts.firefox.com/settings](https://hackerone.com/reports/1880896) | $0.0 bounty
 2. [Email  user account in indexacao waybackurl](https://hackerone.com/reports/1880929) | $0.0 bounty
 3. [DOS via cache poisoning on [developer.mozilla.org]](https://hackerone.com/reports/1976449) | $0.0 bounty

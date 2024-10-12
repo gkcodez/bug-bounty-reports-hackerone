@@ -1,4 +1,4 @@
-## Reports in gitlab program from HackerOne:
+## Reports in gitlab program:
 1. [RCE via the DecompressedArchiveSizeValidator and Project BulkImports (behind feature flag)](https://hackerone.com/reports/1609965) | $33510.0 bounty
 2. [Remote Command Execution via Github import](https://hackerone.com/reports/1679624) | $33510.0 bounty
 3. [Arbitrary file read  via the bulk imports UploadsPipeline](https://hackerone.com/reports/1439593) | $29000.0 bounty

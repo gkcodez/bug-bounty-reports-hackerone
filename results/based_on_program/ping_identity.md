@@ -1,4 +1,4 @@
-## Reports in ping identity program from HackerOne:
+## Reports in ping identity program:
 1. [Server-Side Request Forgery on SAML Application - Import via URL](https://hackerone.com/reports/324005) | $450.0 bounty
 2. [Internal Hostname disclosure from multiple Apache servers via blank host header method](https://hackerone.com/reports/548094) | $150.0 bounty
 3. [Google Maps API key leaked during device pairing](https://hackerone.com/reports/724039) | $150.0 bounty

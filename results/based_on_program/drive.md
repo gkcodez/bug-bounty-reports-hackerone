@@ -1,4 +1,4 @@
-## Reports in drive program from HackerOne:
+## Reports in drive program:
 1. [Same site Scripting ](https://hackerone.com/reports/772039) | $0.0 bounty
 2. [Хранимый XSS в Business-аккаунте, на странице компании](https://hackerone.com/reports/771882) | $0.0 bounty
 3. [[www.drive2.ru] CSRF through FCTX token bypass](https://hackerone.com/reports/835142) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in shopify scripts program from HackerOne:
+## Reports in shopify scripts program:
 1. [Struct type confusion RCE](https://hackerone.com/reports/181879) | $18000.0 bounty
 2. [Crash: Initialize Decimal with itself triggers an assertion](https://hackerone.com/reports/185775) | $10000.0 bounty
 3. [Segfault and/or potential unwanted (byte)code execution with "break" and "||=" inside a loop](https://hackerone.com/reports/183356) | $10000.0 bounty

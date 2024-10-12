@@ -1,4 +1,4 @@
-## Reports in upserve program from HackerOne:
+## Reports in upserve program:
 1. [DOM Based XSS via postMessage at https://inventory.upserve.com/login/](https://hackerone.com/reports/603764) | $2500.0 bounty
 2. [Ability to create own account UUID leads to stored XSS](https://hackerone.com/reports/249131) | $1500.0 bounty
 3. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) | $1200.0 bounty

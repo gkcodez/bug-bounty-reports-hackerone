@@ -1,4 +1,4 @@
-## Reports in mariadb program from HackerOne:
+## Reports in mariadb program:
 1. [vulnerable to Cross-site Request Forgery | Jira](https://hackerone.com/reports/392761) | $0.0 bounty
 2. [xmlrpc.php on mariadb.org can lead to DDOS and brute force attacks](https://hackerone.com/reports/386160) | $0.0 bounty
 3. [SSRF on jira.mariadb.org](https://hackerone.com/reports/397402) | $0.0 bounty

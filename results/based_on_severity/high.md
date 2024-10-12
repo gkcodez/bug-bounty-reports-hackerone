@@ -1,4 +1,4 @@
-## Reports in high severity from HackerOne:
+## Reports in high severity:
 1. [Bypass for #488147 enables stored XSS on https://paypal.com/signin again](https://hackerone.com/reports/510152) | $20000.0 bounty
 2. [Account takeover via leaked session cookie](https://hackerone.com/reports/745324) | $20000.0 bounty
 3. [bd-j exploit chain](https://hackerone.com/reports/1379975) | $20000.0 bounty

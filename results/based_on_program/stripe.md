@@ -1,4 +1,4 @@
-## Reports in stripe program from HackerOne:
+## Reports in stripe program:
 1. [Mass Accounts Takeover Without any user Interaction  at https://app.taxjar.com/ ](https://hackerone.com/reports/1685970) | $13000.0 bounty
 2. [Fee discounts can be redeemed many times, resulting in unlimited fee-free transactions](https://hackerone.com/reports/1849626) | $5000.0 bounty
 3. [Email change or personal data change on the account.](https://hackerone.com/reports/1250037) | $3000.0 bounty

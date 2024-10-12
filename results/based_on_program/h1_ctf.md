@@ -1,4 +1,4 @@
-## Reports in h1 ctf program from HackerOne:
+## Reports in h1 ctf program:
 1. [Solution for hackyholiday](https://hackerone.com/reports/1065495) | $500.0 bounty
 2. [[h1-415 2020] Multiple vulnerabilities leading to leaking of secret user files](https://hackerone.com/reports/780036) | $0.0 bounty
 3. [[h1-415 2020] Solution for h1415's CTF challenge](https://hackerone.com/reports/776699) | $0.0 bounty

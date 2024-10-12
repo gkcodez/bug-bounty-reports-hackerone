@@ -1,4 +1,4 @@
-## Reports in nord security program from HackerOne:
+## Reports in nord security program:
 1. [xmlrpc.php FILE IS enable it will used for Bruteforce attack and Denial of Service(DoS)](https://hackerone.com/reports/752073) | $0.0 bounty
 2. [DoS of https://nordvpn.com/ via CVE-2018-6389 exploitation](https://hackerone.com/reports/752010) | $0.0 bounty
 3. [Version problem in wordpress leads to the many vulnearability](https://hackerone.com/reports/751876) | $0.0 bounty

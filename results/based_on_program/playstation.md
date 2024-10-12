@@ -1,4 +1,4 @@
-## Reports in playstation program from HackerOne:
+## Reports in playstation program:
 1. [bd-j exploit chain](https://hackerone.com/reports/1379975) | $20000.0 bounty
 2. [Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application](https://hackerone.com/reports/873614) | $15000.0 bounty
 3. [Remote vulnerabilities in spp](https://hackerone.com/reports/2177925) | $12500.0 bounty

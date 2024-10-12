@@ -1,2 +1,2 @@
-## Reports in ionity gmbh program from HackerOne:
+## Reports in ionity gmbh program:
 1. [HTML injection in swagger UI](https://hackerone.com/reports/2534300) | $0.0 bounty

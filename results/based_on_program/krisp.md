@@ -1,4 +1,4 @@
-## Reports in krisp program from HackerOne:
+## Reports in krisp program:
 1. [Log4j CVE-2021–44228](https://hackerone.com/reports/1431624) | $0.0 bounty
 2. [Unsubscripe linkes leaked](https://hackerone.com/reports/1439025) | $0.0 bounty
 3. [Error Page Content Spoofing or Text Injection](https://hackerone.com/reports/1444031) | $0.0 bounty

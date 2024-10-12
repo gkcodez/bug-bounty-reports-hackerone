@@ -1,4 +1,4 @@
-## Reports in tennessee valley authority program from HackerOne:
+## Reports in tennessee valley authority program:
 1. [SQL Injection on https://soa-accp.glbx.tva.gov/ via "/api/" path - VI-21-015](https://hackerone.com/reports/1125752) | $0.0 bounty
 2. [Rate limit missing sign-in page](https://hackerone.com/reports/1285441) | $0.0 bounty
 3. [xss reflected - pq.tva.com](https://hackerone.com/reports/1362995) | $0.0 bounty

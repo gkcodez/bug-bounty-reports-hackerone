@@ -1,4 +1,4 @@
-## Reports in lemlist program from HackerOne:
+## Reports in lemlist program:
 1. [Unrestricted File Upload on https://app.lemlist.com](https://hackerone.com/reports/722919) | $0.0 bounty
 2. [SSRF in img.lemlist.com that leads to Localhost Port Scanning](https://hackerone.com/reports/783392) | $0.0 bounty
 3. [stored xss in app.lemlist.com](https://hackerone.com/reports/919859) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in discourse program from HackerOne:
+## Reports in discourse program:
 1. [Any user with invite capabilities can take-over any account on Discourse](https://hackerone.com/reports/242765) | $1024.0 bounty
 2. [Arbitrary Local-File Read from Admin - Restore From Backup due to Symlinks](https://hackerone.com/reports/213558) | $512.0 bounty
 3. [Admin Command Injection via username in user_archive ExportCsvFile](https://hackerone.com/reports/214022) | $512.0 bounty

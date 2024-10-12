@@ -1,4 +1,4 @@
-## Reports in algolia program from HackerOne:
+## Reports in algolia program:
 1. [RCE on facebooksearch.algolia.com](https://hackerone.com/reports/134321) | $500.0 bounty
 2. [Unauthorized team members can leak information and see all API calls through /1/admin/* endpoints, even after they have been removed.](https://hackerone.com/reports/156520) | $400.0 bounty
 3. [Web Cache Deception vulnerability on algolia.com leads to personal information leakage](https://hackerone.com/reports/1530066) | $400.0 bounty

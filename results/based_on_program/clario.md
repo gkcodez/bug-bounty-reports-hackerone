@@ -1,4 +1,4 @@
-## Reports in clario program from HackerOne:
+## Reports in clario program:
 1. [Account Takeover because of the mis-configuration on the Password Reset Page](https://hackerone.com/reports/767765) | $300.0 bounty
 2. [XSS in https://mackeeper.com](https://hackerone.com/reports/731112) | $300.0 bounty
 3. [XSS in https://affiliates.kromtech.com](https://hackerone.com/reports/734433) | $300.0 bounty

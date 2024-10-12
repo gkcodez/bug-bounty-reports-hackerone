@@ -1,4 +1,4 @@
-## Reports in gocd program from HackerOne:
+## Reports in gocd program:
 1. [X-Content-Type-Options header missing at Auth Login](https://hackerone.com/reports/151786) | $0.0 bounty
 2. [Directory Listening](https://hackerone.com/reports/151772) | $0.0 bounty
 3. [Reflected XSS vector](https://hackerone.com/reports/190247) | $0.0 bounty

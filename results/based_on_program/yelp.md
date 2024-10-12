@@ -1,4 +1,4 @@
-## Reports in yelp program from HackerOne:
+## Reports in yelp program:
 1. [Access to internal CMS containing private Data](https://hackerone.com/reports/100926) | $0.0 bounty
 2. [Bybass The Closing of the account and logged again to your account](https://hackerone.com/reports/167489) | $0.0 bounty
 3. [Verification of E-Mail address possible on https://biz.yelp.com/login and https://biz.yelp.com/forgot](https://hackerone.com/reports/166265) | $0.0 bounty

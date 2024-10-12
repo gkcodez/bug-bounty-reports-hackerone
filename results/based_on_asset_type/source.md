@@ -1,5 +1,5 @@
 
-## Reports in source asset type from HackerOne:1. [RepositoryPipeline allows importing of local git repos](https://hackerone.com/reports/1685822) | $22300.0 bounty
+## Reports in source asset type:1. [RepositoryPipeline allows importing of local git repos](https://hackerone.com/reports/1685822) | $22300.0 bounty
 2. [DOS via issue preview](https://hackerone.com/reports/1543718) | $7640.0 bounty
 3. [Possible DoS Vulnerability with Range Header in Rack](https://hackerone.com/reports/2520679) | $5420.0 bounty
 4. [Half-Blind SSRF found in kube/cloud-controller-manager can be upgraded to complete SSRF (fully crafted HTTP requests) in vendor managed k8s service.](https://hackerone.com/reports/776017) | $5000.0 bounty

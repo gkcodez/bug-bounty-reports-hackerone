@@ -1,4 +1,4 @@
-## Reports in smule program from HackerOne:
+## Reports in smule program:
 1. [Disclosure of information about the system, configuration files.](https://hackerone.com/reports/364910) | $0.0 bounty
 2. [Missing Rate Limit in Forgot Password can Lead to email address leakage of all smule accounts](https://hackerone.com/reports/441161) | $0.0 bounty
 3. [Open Redirect on ███](https://hackerone.com/reports/440484) | $0.0 bounty

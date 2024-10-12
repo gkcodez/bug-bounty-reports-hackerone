@@ -1,4 +1,4 @@
-## Reports in pushwoosh program from HackerOne:
+## Reports in pushwoosh program:
 1. [Spoof Email with Hyperlink Injection via Invites functionality](https://hackerone.com/reports/182008) | $0.0 bounty
 2. [htaccess file is accesible](https://hackerone.com/reports/182017) | $0.0 bounty
 3. [Nginx server version disclosure](https://hackerone.com/reports/182046) | $0.0 bounty

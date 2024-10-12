@@ -1,4 +1,4 @@
-## Reports in duckduckgo program from HackerOne:
+## Reports in duckduckgo program:
 1. [SSRF in proxy.duckduckgo.com via the image_host parameter](https://hackerone.com/reports/358119) | $0.0 bounty
 2. [SSRF on duckduckgo.com/iu/](https://hackerone.com/reports/398641) | $0.0 bounty
 3. [DOM XSS on 50x.html page](https://hackerone.com/reports/405191) | $0.0 bounty

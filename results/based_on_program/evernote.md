@@ -1,4 +1,4 @@
-## Reports in evernote program from HackerOne:
+## Reports in evernote program:
 1. [Reflected XSS in the shared note view on https://evernote.com](https://hackerone.com/reports/1518343) | $500.0 bounty
 2. [CSRF leads to account deactivation of users](https://hackerone.com/reports/1121990) | $300.0 bounty
 3. [[34.96.80.155] Server Logs Disclosure lead to Information Leakage](https://hackerone.com/reports/1398270) | $150.0 bounty

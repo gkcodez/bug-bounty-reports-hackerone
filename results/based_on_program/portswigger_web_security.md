@@ -1,4 +1,4 @@
-## Reports in portswigger web security program from HackerOne:
+## Reports in portswigger web security program:
 1. [RCE of Burp  Scanner / Crawler via Clickjacking ](https://hackerone.com/reports/1274695) | $3000.0 bounty
 2. [CSP bypass on PortSwigger.net using Google script resources](https://hackerone.com/reports/2279346) | $1500.0 bounty
 3. [Build fetches jars over HTTP](https://hackerone.com/reports/506161) | $1000.0 bounty

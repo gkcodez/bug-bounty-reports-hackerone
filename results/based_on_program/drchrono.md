@@ -1,4 +1,4 @@
-## Reports in drchrono program from HackerOne:
+## Reports in drchrono program:
 1. [CSRF  Add Album On  onpatient.com ](https://hackerone.com/reports/99647) | $0.0 bounty
 2. [Request Accepts without X-CSRFToken  [ Header - Cookie ]](https://hackerone.com/reports/99857) | $0.0 bounty
 3. [User with no permissions can create, edit, delete favorite prescriptions /erx/](https://hackerone.com/reports/142101) | $0.0 bounty

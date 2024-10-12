@@ -1,4 +1,4 @@
-## Reports in dashlane program from HackerOne:
+## Reports in dashlane program:
 1. [Missing Access Control(IDOR) To Know LinkedAccounts ](https://hackerone.com/reports/152407) | $0.0 bounty
 2. [[https://www.dashlane.com] Test Panel Disclosure](https://hackerone.com/reports/227663) | $0.0 bounty
 3. [Extract Billing admin email address using random team id](https://hackerone.com/reports/225831) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in grammarly program from HackerOne:
+## Reports in grammarly program:
 1. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) | $10500.0 bounty
 2. [Employee's GitHub Token Found In Travis CI Build Logs](https://hackerone.com/reports/496937) | $5000.0 bounty
 3. [“email” MFA mode allows bypassing MFA from victim’s device when the device trust is not expired](https://hackerone.com/reports/665722) | $2500.0 bounty

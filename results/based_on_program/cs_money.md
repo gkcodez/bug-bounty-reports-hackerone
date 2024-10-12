@@ -1,4 +1,4 @@
-## Reports in cs money program from HackerOne:
+## Reports in cs money program:
 1. [Blind XSS on image upload](https://hackerone.com/reports/1010466) | $1000.0 bounty
 2. [Cookie poisoning leads to DOS and Privacy Violation](https://hackerone.com/reports/1067809) | $700.0 bounty
 3. [Site-wide CSRF on Safari due to CORS misconfiguration (not localhost)](https://hackerone.com/reports/975983) | $300.0 bounty

@@ -1,4 +1,4 @@
-## Reports in endless group program from HackerOne:
+## Reports in endless group program:
 1. [CVE-2017-8779 exploit on open rpcbind port could lead to remote DoS](https://hackerone.com/reports/791893) | $0.0 bounty
 2. [Modify Host Header which is sent to email](https://hackerone.com/reports/791293) | $0.0 bounty
 3. [Lets Encrypt Certificates affected by CAA Rechecking Incident](https://hackerone.com/reports/813279) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in 8x8 bounty program from HackerOne:
+## Reports in 8x8 bounty program:
 1. [Any meeting chat history can be read and modified by an arbitrary user](https://hackerone.com/reports/1038658) | $1337.0 bounty
 2. [Stored xss at https://█.8x8.com/api/█/ID](https://hackerone.com/reports/2078490) | $1337.0 bounty
 3. [Jitsi Desktop Client RCE By Interacting with Malicious URL Schemes on Windows](https://hackerone.com/reports/1692603) | $777.0 bounty

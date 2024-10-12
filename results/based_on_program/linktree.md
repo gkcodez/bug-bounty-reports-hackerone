@@ -1,4 +1,4 @@
-## Reports in linktree program from HackerOne:
+## Reports in linktree program:
 1. [A malicious admin can be able to permanently disable a Owner(Admin) to access his account](https://hackerone.com/reports/1718574) | $600.0 bounty
 2. [XSS in linktr.ee - on link thumbnail adding](https://hackerone.com/reports/1775162) | $600.0 bounty
 3. [No validation to Image upload user can upload ( php APK zip files and can be used as storage purpose)](https://hackerone.com/reports/1644062) | $0.0 bounty

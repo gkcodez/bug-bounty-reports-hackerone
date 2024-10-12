@@ -1,5 +1,5 @@
 
-## Reports in hardware asset type from HackerOne:1. [SAML Signature verification bypass allows logging into any user (with specific conditions)](https://hackerone.com/reports/2579939) | $25000.0 bounty
+## Reports in hardware asset type:1. [SAML Signature verification bypass allows logging into any user (with specific conditions)](https://hackerone.com/reports/2579939) | $25000.0 bounty
 2. [bd-j exploit chain](https://hackerone.com/reports/1379975) | $20000.0 bounty
 3. [Remote vulnerabilities in spp](https://hackerone.com/reports/2177925) | $12500.0 bounty
 4. [Use-After-Free In IPV6_2292PKTOPTIONS leading To Arbitrary Kernel R/W Primitives](https://hackerone.com/reports/826026) | $10000.0 bounty

@@ -1,4 +1,4 @@
-## Reports in gsa bounty program from HackerOne:
+## Reports in gsa bounty program:
 1. [CI for [example.gov] can be logged in and accessible](https://hackerone.com/reports/311289) | $2000.0 bounty
 2. [HTML injection (with XSS possible) on the https://www.data.gov/issue/ using media_url attribute](https://hackerone.com/reports/263226) | $900.0 bounty
 3. [Defacement of catalog.data.gov via web cache poisoning to stored DOMXSS](https://hackerone.com/reports/303730) | $750.0 bounty

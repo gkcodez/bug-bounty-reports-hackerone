@@ -1,2 +1,2 @@
-## Reports in smartsheet program from HackerOne:
+## Reports in smartsheet program:
 1. [Smartsheet employees email disclosure through enpoint after login.](https://hackerone.com/reports/880089) | $100.0 bounty

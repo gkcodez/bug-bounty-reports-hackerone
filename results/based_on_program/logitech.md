@@ -1,4 +1,4 @@
-## Reports in logitech program from HackerOne:
+## Reports in logitech program:
 1. [One Click Account takeover using Ouath CSRF bypass by adding Null byte %00 in state parameter on  www.streamlabs.com](https://hackerone.com/reports/1046630) | $200.0 bounty
 2. [Moderator user has access to owner's support portal and tickets](https://hackerone.com/reports/1071918) | $200.0 bounty
 3. [Sensitive information disclosure to shared access user via streamlabs platform api](https://hackerone.com/reports/1072893) | $200.0 bounty

@@ -1,4 +1,4 @@
-## Reports in vk program from HackerOne:
+## Reports in vk program:
 1. [Определение id по номеру телефона](https://hackerone.com/reports/331040) | $5000.0 bounty
 2. [XSS в upload.php](https://hackerone.com/reports/142135) | $1500.0 bounty
 3. [Второй способ обхода 2FA](https://hackerone.com/reports/167121) | $1050.0 bounty

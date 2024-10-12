@@ -1,4 +1,4 @@
-## Reports in ratelimited program from HackerOne:
+## Reports in ratelimited program:
 1. [HTTP PUT method enabled](https://hackerone.com/reports/369581) | $0.0 bounty
 2. [HTTP PUT method enabled](https://hackerone.com/reports/460642) | $0.0 bounty
 3. [ information disclosure which leak the apache version ](https://hackerone.com/reports/460530) | $0.0 bounty

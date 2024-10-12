@@ -1,4 +1,4 @@
-## Reports in upchieve program from HackerOne:
+## Reports in upchieve program:
 1. [Full account takeover of any user through reset password](https://hackerone.com/reports/1175081) | $0.0 bounty
 2. [Zero click account Takeover due to Api misconfiguration 🏂🎩](https://hackerone.com/reports/1166500) | $0.0 bounty
 3. [User enumeration through forget password](https://hackerone.com/reports/1166054) | $0.0 bounty

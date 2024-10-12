@@ -1,4 +1,4 @@
-## Reports in semrush program from HackerOne:
+## Reports in semrush program:
 1. [Cross-origin resource sharing misconfig | steal user information ](https://hackerone.com/reports/235200) | $0.0 bounty
 2. [subdomain takeover at news-static.semrush.com](https://hackerone.com/reports/294201) | $0.0 bounty
 3. [Following links are vulnerable to clickjacking](https://hackerone.com/reports/289246) | $0.0 bounty

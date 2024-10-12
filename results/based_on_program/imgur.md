@@ -1,4 +1,4 @@
-## Reports in imgur program from HackerOne:
+## Reports in imgur program:
 1. [Unauthenticated Docker registry](https://hackerone.com/reports/179103) | $0.0 bounty
 2. [Stored XSS in albums on http://m.imgur.com/](https://hackerone.com/reports/169751) | $0.0 bounty
 3. [Stored xss in ALBUM DESCRIPTION ](https://hackerone.com/reports/181955) | $0.0 bounty

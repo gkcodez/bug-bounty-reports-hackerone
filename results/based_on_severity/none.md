@@ -1,4 +1,4 @@
-## Reports in none severity from HackerOne:
+## Reports in none severity:
 1. [Command injection in GitHub Actions ContainerStepHost](https://hackerone.com/reports/1637621) | $4000.0 bounty
 2. [Private program disclosure via `vpn_suspended` GraphQL query](https://hackerone.com/reports/715192) | $2500.0 bounty
 3. [Stored cross-site scripting in dataset owner.](https://hackerone.com/reports/708123) | $1925.0 bounty

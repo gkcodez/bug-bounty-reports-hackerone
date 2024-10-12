@@ -1,4 +1,4 @@
-## Reports in instacart program from HackerOne:
+## Reports in instacart program:
 1. [Fetch private list metadata and any user's personal name](https://hackerone.com/reports/162822) | $150.0 bounty
 2. [Full access to any list](https://hackerone.com/reports/173969) | $150.0 bounty
 3. [Get all instacart emails - missing rate limit on /accounts/register](https://hackerone.com/reports/275186) | $150.0 bounty

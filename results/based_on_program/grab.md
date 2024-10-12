@@ -1,4 +1,4 @@
-## Reports in grab program from HackerOne:
+## Reports in grab program:
 1. [Access Grab_Road BigData Database via Open Presto coordinator](https://hackerone.com/reports/266766) | $5000.0 bounty
 2. [www.drivegrab.com SQL injection](https://hackerone.com/reports/273946) | $4500.0 bounty
 3. [Leak ██████████ information in real time through API request](https://hackerone.com/reports/307050) | $3000.0 bounty

@@ -1,4 +1,4 @@
-## Reports in linkedin program from HackerOne:
+## Reports in linkedin program:
 1. [Persistent XSS (unvalidated Open Graph embed) at LinkedIn.com](https://hackerone.com/reports/425007) | $0.0 bounty
 2. [The software does not implement sufficient measures to prevent multiple failed authentication attempts within in a short time frame, making it more su](https://hackerone.com/reports/1591504) | $0.0 bounty
 3. [Rate limit Bypass on contact-us through IP Rotator (burp extension)(https://www.linkedin.com/help/linkedin/solve/contact)](https://hackerone.com/reports/1578121) | $0.0 bounty

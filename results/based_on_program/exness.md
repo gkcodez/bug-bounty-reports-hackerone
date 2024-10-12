@@ -1,4 +1,4 @@
-## Reports in exness program from HackerOne:
+## Reports in exness program:
 1. [SSRF in graphQL query (pwapi.ex2b.com)](https://hackerone.com/reports/1864188) | $3000.0 bounty
 2. [Verification process done using different documents without corresponding to user information / User information can be changed after verification](https://hackerone.com/reports/1446107) | $500.0 bounty
 3. [[com.exness.android.pa Android] Universal XSS in webview. Lead to steal user cookies](https://hackerone.com/reports/532836) | $400.0 bounty

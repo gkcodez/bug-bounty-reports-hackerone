@@ -1,4 +1,4 @@
-## Reports in hyperledger program from HackerOne:
+## Reports in hyperledger program:
 1. [POOL_UPGRADE request handler may allow an unauthenticated attacker to remotely execute code on every node in the network. ](https://hackerone.com/reports/1705717) | $2000.0 bounty
 2. [Docker Secret Disclosure via GitHub Actions Cache Poisoning](https://hackerone.com/reports/2410111) | $2000.0 bounty
 3. [Unauthorized packages modification or secrets exfiltration via GitHub actions](https://hackerone.com/reports/1548870) | $1500.0 bounty

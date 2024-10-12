@@ -1,4 +1,4 @@
-## Reports in glovo program from HackerOne:
+## Reports in glovo program:
 1. [Moodle XSS on  evolve.glovoapp.com](https://hackerone.com/reports/1165540) | $0.0 bounty
 2. [Reflected XSS on delivery.glovoapp.com](https://hackerone.com/reports/1264805) | $0.0 bounty
 3. [chainning bugs to get full disclosure of Users addresses ](https://hackerone.com/reports/1398905) | $0.0 bounty

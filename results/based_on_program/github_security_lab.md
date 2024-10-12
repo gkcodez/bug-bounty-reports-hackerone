@@ -1,4 +1,4 @@
-## Reports in github security lab program from HackerOne:
+## Reports in github security lab program:
 1. [[ruby]: ZipSlip/TarSlip vulnerability detection](https://hackerone.com/reports/1914118) | $5500.0 bounty
 2. [[Java] CWE-326: Query to detect weak encryption with an insufficient key size](https://hackerone.com/reports/1094343) | $4500.0 bounty
 3. [Java: Query for detecting JEXL injections](https://hackerone.com/reports/1118508) | $4500.0 bounty

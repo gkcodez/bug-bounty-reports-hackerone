@@ -1,4 +1,4 @@
-## Reports in whisper program from HackerOne:
+## Reports in whisper program:
 1. [Stored XSS in wis.pr](https://hackerone.com/reports/149571) | $100.0 bounty
 2. [Insecure Local Data Storage  : Application stores data using a binary sqlite database](https://hackerone.com/reports/57918) | $50.0 bounty
 3. [SMS Invite Form Abuse](https://hackerone.com/reports/94642) | $30.0 bounty

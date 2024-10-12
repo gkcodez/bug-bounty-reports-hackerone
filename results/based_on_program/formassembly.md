@@ -1,4 +1,4 @@
-## Reports in formassembly program from HackerOne:
+## Reports in formassembly program:
 1. [formassembly.com is vulnerable to padding-oracle attacks.](https://hackerone.com/reports/197253) | $0.0 bounty
 2. [XSS on username when register to proffesional account](https://hackerone.com/reports/196989) | $0.0 bounty
 3. [XSS in api_v1](https://hackerone.com/reports/198851) | $0.0 bounty

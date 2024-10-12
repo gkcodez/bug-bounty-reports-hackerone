@@ -1,4 +1,4 @@
-## Top 100 reports with highest bounty from HackerOne:
+## Top 100 reports with highest bounty:
 1. [Github access token exposure](https://hackerone.com/reports/1087489) | $50000.0 bounty
 2. [[Pre-Submission][H1-4420-2019] API access to Phabricator on code.uberinternal.com from leaked certificate in git repo](https://hackerone.com/reports/591813) | $39999.99 bounty
 3. [RCE via the DecompressedArchiveSizeValidator and Project BulkImports (behind feature flag)](https://hackerone.com/reports/1609965) | $33510.0 bounty

@@ -1,4 +1,4 @@
-## Reports in vimeo program from HackerOne:
+## Reports in vimeo program:
 1. [Invite any user to your group without even following him](https://hackerone.com/reports/52707) | $0.0 bounty
 2. [Downloading password protected / restricted videos](https://hackerone.com/reports/145467) | $0.0 bounty
 3. [XSS in Subtitles of Vimeo Flash Player and Hubnut ](https://hackerone.com/reports/137023) | $0.0 bounty

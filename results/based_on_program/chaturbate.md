@@ -1,4 +1,4 @@
-## Reports in chaturbate program from HackerOne:
+## Reports in chaturbate program:
 1. [Reflected XSS on secure.chaturbate.com](https://hackerone.com/reports/413412) | $800.0 bounty
 2. [Rate limit missing at room login](https://hackerone.com/reports/385381) | $500.0 bounty
 3. [Stored XSS in chat topic due to insecure emoticon parsing on any message type](https://hackerone.com/reports/429298) | $450.0 bounty

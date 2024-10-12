@@ -1,4 +1,4 @@
-## Reports in hostinger program from HackerOne:
+## Reports in hostinger program:
 1. [GCM sender key leak](https://hackerone.com/reports/941590) | $0.0 bounty
 2. [Implement rate limit on internal password checks](https://hackerone.com/reports/832475) | $0.0 bounty
 3. [IDOR at https://cpanel.hostinger.com/billing/change-order-period](https://hackerone.com/reports/837349) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in coinbase program from HackerOne:
+## Reports in coinbase program:
 1. [Double Payout via PayPal](https://hackerone.com/reports/307239) | $10000.0 bounty
 2. [Authentication Issue](https://hackerone.com/reports/176979) | $200.0 bounty
 3. [XSSI (Cross Site Script Inclusion)](https://hackerone.com/reports/118631) | $200.0 bounty

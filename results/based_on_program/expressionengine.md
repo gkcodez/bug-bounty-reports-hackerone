@@ -1,4 +1,4 @@
-## Reports in expressionengine program from HackerOne:
+## Reports in expressionengine program:
 1. [Arbitrary SQL query execution and reflected XSS in the "SQL Query Form"](https://hackerone.com/reports/149279) | $0.0 bounty
 2. [Type Juggling -> PHP Object Injection -> SQL Injection Chain](https://hackerone.com/reports/202774) | $0.0 bounty
 3. [Open redirects protection bypass](https://hackerone.com/reports/236599) | $0.0 bounty

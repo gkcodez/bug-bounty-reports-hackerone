@@ -1,4 +1,4 @@
-## Reports in ruby program from HackerOne:
+## Reports in ruby program:
 1. [Writable RubyCi Amazon s3 bucket](https://hackerone.com/reports/207053) | $500.0 bounty
 2. [Buffer underflow in sprintf](https://hackerone.com/reports/192127) | $500.0 bounty
 3. [Escape sequence injection vulnerability in WEBrick BasicAuth](https://hackerone.com/reports/223363) | $500.0 bounty

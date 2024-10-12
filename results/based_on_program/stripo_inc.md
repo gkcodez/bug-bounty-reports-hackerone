@@ -1,4 +1,4 @@
-## Reports in stripo inc program from HackerOne:
+## Reports in stripo inc program:
 1. [SSRF in /cabinet/stripeapi/v1/siteInfoLookup?url=XXX](https://hackerone.com/reports/738553) | $0.0 bounty
 2. [Able to change password by entering wrong old password](https://hackerone.com/reports/738899) | $0.0 bounty
 3. [Redirection through referer tag](https://hackerone.com/reports/737578) | $0.0 bounty

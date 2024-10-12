@@ -1,4 +1,4 @@
-## Reports in legal robot program from HackerOne:
+## Reports in legal robot program:
 1. [Amazon Bucket Accessible (http://legalrobot.s3.amazonaws.com/)](https://hackerone.com/reports/163599) | $0.0 bounty
 2. [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) | $0.0 bounty
 3. [Remote Code Execution (upload)](https://hackerone.com/reports/116575) | $0.0 bounty

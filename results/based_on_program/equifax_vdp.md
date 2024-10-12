@@ -1,4 +1,4 @@
-## Reports in equifax vdp program from HackerOne:
+## Reports in equifax vdp program:
 1. [Important information leaked on Github](https://hackerone.com/reports/649322) | $0.0 bounty
 2. [Information Leak (Github)](https://hackerone.com/reports/694931) | $0.0 bounty
 3. [Open SonarQube instance leaking internal source code](https://hackerone.com/reports/947946) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in unikrn program from HackerOne:
+## Reports in unikrn program:
 1. [An IDOR that can lead to enumeration of a user and disclosure of email and phone number within cashier](https://hackerone.com/reports/1966006) | $3000.0 bounty
 2. [CSRF logs the victim into attacker's account](https://hackerone.com/reports/339352) | $100.0 bounty
 3. [Rate Limit workaround in the message of the phone number verification ](https://hackerone.com/reports/619578) | $100.0 bounty

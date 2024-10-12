@@ -1,4 +1,4 @@
-## Reports in trint ltd program from HackerOne:
+## Reports in trint ltd program:
 1. [IDOR in changing shared file name](https://hackerone.com/reports/547663) | $0.0 bounty
 2. [IDOR to update folder name of other user](https://hackerone.com/reports/587687) | $0.0 bounty
 3. [Insecure Zendesk SSO implementation by generating JWT client-side](https://hackerone.com/reports/638635) | $0.0 bounty

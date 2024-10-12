@@ -1,4 +1,4 @@
-## Reports in shopify program from HackerOne:
+## Reports in shopify program:
 1. [Github access token exposure](https://hackerone.com/reports/1087489) | $50000.0 bounty
 2. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) | $16000.0 bounty
 3. [Ability to bypass partner email confirmation to take over any store given an employee email](https://hackerone.com/reports/300305) | $15250.0 bounty

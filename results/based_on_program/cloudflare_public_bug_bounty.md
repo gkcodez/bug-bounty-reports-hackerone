@@ -1,4 +1,4 @@
-## Reports in cloudflare public bug bounty program from HackerOne:
+## Reports in cloudflare public bug bounty program:
 1. [Using special IPv4-mapped IPv6 addresses to bypass local IP ban](https://hackerone.com/reports/1785260) | $7500.0 bounty
 2. [HTTP Request Smuggling in Transform Rules using hexadecimal escape sequences in the concat() function](https://hackerone.com/reports/1478633) | $6000.0 bounty
 3. [Hijack all emails sent to any domain that uses Cloudflare Email Forwarding](https://hackerone.com/reports/1419341) | $6000.0 bounty

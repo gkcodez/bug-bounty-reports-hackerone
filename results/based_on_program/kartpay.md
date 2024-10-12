@@ -1,4 +1,4 @@
-## Reports in kartpay program from HackerOne:
+## Reports in kartpay program:
 1. [Error Page Content Spoofing or Text Injection [https://vpn.kartpay.com/]](https://hackerone.com/reports/653214) | $0.0 bounty
 2. [Captcha protection Bypass on Forgot password page](https://hackerone.com/reports/642498) | $0.0 bounty
 3. [Application Design issue for Phone Number field in Registration.](https://hackerone.com/reports/642847) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in enjin program from HackerOne:
+## Reports in enjin program:
 1. [Revocation API Token by Bypassing The XSRF Token](https://hackerone.com/reports/2312217) | $1500.0 bounty
 2. [Authentication token and CSRF token bypass](https://hackerone.com/reports/998457) | $300.0 bounty
 3. [Weak Email Verification: Newly Registered Users Can Bypass Email Verification Step and Log In](https://hackerone.com/reports/2312320) | $150.0 bounty

@@ -1,4 +1,4 @@
-## Reports in phabricator program from HackerOne:
+## Reports in phabricator program:
 1. [Possible to make restricted files public on Phabricator via Diffusion](https://hackerone.com/reports/1560717) | $2000.0 bounty
 2. [Phabricator is vulnerable to padding oracle attacks and chosen-ciphertext attacks.](https://hackerone.com/reports/216746) | $750.0 bounty
 3. [User can link non-public file attachments, leading to file disclose on edit by higher-privileged user](https://hackerone.com/reports/763177) | $500.0 bounty

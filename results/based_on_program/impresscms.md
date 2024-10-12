@@ -1,4 +1,4 @@
-## Reports in impresscms program from HackerOne:
+## Reports in impresscms program:
 1. [Slack server disclose h1 private issue report](https://hackerone.com/reports/1035976) | $0.0 bounty
 2. [Download full backup and Cross site scripting ](https://hackerone.com/reports/1049040) | $0.0 bounty
 3. [Other misconfiguration on Slack Server](https://hackerone.com/reports/1039325) | $0.0 bounty

@@ -1,5 +1,5 @@
 
-## Reports in apple asset type from HackerOne:1. [iOS app crashed by specially crafted direct message reactions](https://hackerone.com/reports/784676) | $560.0 bounty
+## Reports in apple asset type:1. [iOS app crashed by specially crafted direct message reactions](https://hackerone.com/reports/784676) | $560.0 bounty
 2. [Webview in LINE client for iOS will render application/octet-stream files as HTML](https://hackerone.com/reports/988332) | $500.0 bounty
 3. [URL Scheme misconfiguration on TikTok for IOS](https://hackerone.com/reports/1437294) | $500.0 bounty
 4. [Attacker shall recieve order updates on whatsapp for users who have activated whatsapp notification](https://hackerone.com/reports/1523584) | $300.0 bounty

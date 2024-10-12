@@ -1,4 +1,4 @@
-## Reports in mtn group program from HackerOne:
+## Reports in mtn group program:
 1. [Upload directory of Mtn.ci](https://hackerone.com/reports/762118) | $0.0 bounty
 2. [Upload directory of Mtn.co.sz has listing enabled](https://hackerone.com/reports/760484) | $0.0 bounty
 3. [Information Disclosure FrontPage Configuration Information /_vti_inf.html in https://www.mtn.co.za/](https://hackerone.com/reports/761617) | $0.0 bounty

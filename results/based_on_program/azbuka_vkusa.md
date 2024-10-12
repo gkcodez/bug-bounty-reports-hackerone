@@ -1,4 +1,4 @@
-## Reports in azbuka vkusa program from HackerOne:
+## Reports in azbuka vkusa program:
 1. [IDOR - Other user's delivery address disclosed](https://hackerone.com/reports/964010) | $0.0 bounty
 2. [Corporate Jira credentials disclosed in public gist](https://hackerone.com/reports/958432) | $0.0 bounty
 3. [Leak of Google Sheets API credentials](https://hackerone.com/reports/965314) | $0.0 bounty

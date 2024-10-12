@@ -1,5 +1,5 @@
 
-## Reports in google asset type from HackerOne:1. [Able to steal bearer token from deep link](https://hackerone.com/reports/1372667) | $6337.0 bounty
+## Reports in google asset type:1. [Able to steal bearer token from deep link](https://hackerone.com/reports/1372667) | $6337.0 bounty
 2. [Changing email address on Twitter for Android unsets "Protect your Tweets"](https://hackerone.com/reports/472013) | $2940.0 bounty
 3. [Add upto 10K rupees to a wallet by paying an arbitrary amount](https://hackerone.com/reports/1408782) | $2000.0 bounty
 4. [Default Nextcloud Server and Android Client leak sharee searches to Nextcloud](https://hackerone.com/reports/1167916) | $750.0 bounty

@@ -1,4 +1,4 @@
-## Reports in stellar program from HackerOne:
+## Reports in stellar program:
 1. [HTTP - Basic Authentication on https://www.stellar.org/wp-login.php](https://hackerone.com/reports/239479) | $0.0 bounty
 2. [Session Cookie without HttpOnly and secure flag set](https://hackerone.com/reports/239380) | $0.0 bounty
 3. [heap-buffer-overflow (READ of size 1) in cpptoml::parser::consume_whitespace()](https://hackerone.com/reports/240659) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in concrete cms program from HackerOne:
+## Reports in concrete cms program:
 1. [CSRF Full Account Takeover](https://hackerone.com/reports/152052) | $0.0 bounty
 2. [Local File Inclusion path bypass](https://hackerone.com/reports/147570) | $0.0 bounty
 3. [Full Page Caching Stored XSS Vulnerability](https://hackerone.com/reports/148300) | $0.0 bounty

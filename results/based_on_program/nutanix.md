@@ -1,4 +1,4 @@
-## Reports in nutanix program from HackerOne:
+## Reports in nutanix program:
 1. [AWS S3 bucket writeable for authenticated AWS users](https://hackerone.com/reports/881004) | $0.0 bounty
 2. [Open Redirect at https://www.nutanix.com/tw/login via icid parameter](https://hackerone.com/reports/1131753) | $0.0 bounty
 3. [OPEN REDIRECT ](https://hackerone.com/reports/1369806) | $0.0 bounty

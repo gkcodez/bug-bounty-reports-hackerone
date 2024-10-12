@@ -1,4 +1,4 @@
-## Reports in weblate program from HackerOne:
+## Reports in weblate program:
 1. [Web server is vulnerable to Beast Attack](https://hackerone.com/reports/223350) | $0.0 bounty
 2. [CSRF to Connect third party Account](https://hackerone.com/reports/225100) | $0.0 bounty
 3. [Account Takeover using Third party Auth CSRF](https://hackerone.com/reports/225653) | $0.0 bounty

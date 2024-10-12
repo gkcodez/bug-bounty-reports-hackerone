@@ -1,4 +1,4 @@
-## Reports in basecamp program from HackerOne:
+## Reports in basecamp program:
 1. [AWS keys and user cookie leakage via uninitialized memory leak in outdated librsvg version in Basecamp](https://hackerone.com/reports/2107680) | $8868.0 bounty
 2. [HTTP Request Smuggling via HTTP/2](https://hackerone.com/reports/1211724) | $7500.0 bounty
 3. [Able to steal bearer token from deep link](https://hackerone.com/reports/1372667) | $6337.0 bounty

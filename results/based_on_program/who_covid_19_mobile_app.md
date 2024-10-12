@@ -1,4 +1,4 @@
-## Reports in who covid 19 mobile app program from HackerOne:
+## Reports in who covid 19 mobile app program:
 1. [Probably unexploitable XSS via Header Injection](https://hackerone.com/reports/836689) | $0.0 bounty
 2. [Improper Input Validation on User's Location on PUT /WhoService/putLocation Could Affect Availability/Falsify Users](https://hackerone.com/reports/838647) | $0.0 bounty
 3. [DMARC and SPF records](https://hackerone.com/reports/1064087) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in kaspersky program from HackerOne:
+## Reports in kaspersky program:
 1. [In App purchase Hack ](https://hackerone.com/reports/218287) | $0.0 bounty
 2. [Keys](https://hackerone.com/reports/269831) | $0.0 bounty
 3. [Hard Coded username and password in registry](https://hackerone.com/reports/291200) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in x formerly twitter program from HackerOne:
+## Reports in x formerly twitter program:
 1. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) | $20160.0 bounty
 2. [Account Takeover in Periscope TV](https://hackerone.com/reports/317476) | $7560.0 bounty
 3. [Discoverability by phone number/email restriction bypass](https://hackerone.com/reports/1439026) | $5040.0 bounty

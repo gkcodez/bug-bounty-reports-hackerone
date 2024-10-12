@@ -1,4 +1,4 @@
-## Reports in low severity from HackerOne:
+## Reports in low severity:
 1. [Unauthorized access to █████████.com allows access to Uber Brazil tax documents and system.](https://hackerone.com/reports/530441) | $4500.0 bounty
 2. [Account creation with invalid email addresses / email is accepting % and %0d%0a line termination chars](https://hackerone.com/reports/815085) | $3750.0 bounty
 3. [Blind SSRF on errors.hackerone.net due to Sentry misconfiguration](https://hackerone.com/reports/374737) | $3500.0 bounty

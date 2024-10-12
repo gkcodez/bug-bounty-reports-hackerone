@@ -1,5 +1,5 @@
 
-## Reports in downloadable asset type from HackerOne:1. [Malformed NAV file leads to buffer overflow and code execution in Left4Dead2.exe](https://hackerone.com/reports/542180) | $10000.0 bounty
+## Reports in downloadable asset type:1. [Malformed NAV file leads to buffer overflow and code execution in Left4Dead2.exe](https://hackerone.com/reports/542180) | $10000.0 bounty
 2. [RCE hazard in reporting (via Chromium)](https://hackerone.com/reports/1168765) | $10000.0 bounty
 3. [RCE on CS:GO client using unsanitized entity ID in EntityMsg message](https://hackerone.com/reports/584603) | $9000.0 bounty
 4. [OOB reads in network message handlers leads to RCE](https://hackerone.com/reports/807772) | $7500.0 bounty

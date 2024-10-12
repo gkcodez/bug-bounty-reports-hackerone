@@ -1,4 +1,4 @@
-## Reports in informatica program from HackerOne:
+## Reports in informatica program:
 1. [[oneclickdrsfdc-test.informatica.com] Tomcat Example Scripts Exposed Unauthenticated](https://hackerone.com/reports/147161) | $0.0 bounty
 2. [[rev-app.informatica.com] - XXE](https://hackerone.com/reports/105434) | $0.0 bounty
 3. [[now.informatica.com] Reflective Xss](https://hackerone.com/reports/81191) | $0.0 bounty

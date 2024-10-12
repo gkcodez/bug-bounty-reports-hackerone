@@ -1,4 +1,4 @@
-## Reports in snapchat program from HackerOne:
+## Reports in snapchat program:
 1. [Exposed Kubernetes API - RCE/Exposed Creds](https://hackerone.com/reports/455645) | $25000.0 bounty
 2. [Open prod Jenkins instance](https://hackerone.com/reports/231460) | $15000.0 bounty
 3. [Leaked JFrog Artifactory  username and password exposed on GitHub - https://snapchat.jfrog.io](https://hackerone.com/reports/911606) | $15000.0 bounty

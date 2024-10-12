@@ -1,4 +1,4 @@
-## Reports in hanno program from HackerOne:
+## Reports in hanno program:
 1. [SQL injection in Serendipity (serendipity_fetchComments)](https://hackerone.com/reports/374748) | $0.0 bounty
 2. [Reflected Cross-Site Scripting in Serendipity (serendipity.SetCookie)](https://hackerone.com/reports/373950) | $0.0 bounty
 3. [Open redirect in Serendipity (exit.php)](https://hackerone.com/reports/373932) | $0.0 bounty

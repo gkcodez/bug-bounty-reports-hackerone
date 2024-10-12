@@ -1,4 +1,4 @@
-## Reports in valve program from HackerOne:
+## Reports in valve program:
 1. [SQL Injection in report_xml.php through countryFilter[] parameter](https://hackerone.com/reports/383127) | $25000.0 bounty
 2. [Getting all the CD keys of any game](https://hackerone.com/reports/391217) | $20000.0 bounty
 3. [Malformed NAV file leads to buffer overflow and code execution in Left4Dead2.exe](https://hackerone.com/reports/542180) | $10000.0 bounty

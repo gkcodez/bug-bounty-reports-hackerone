@@ -1,4 +1,4 @@
-## Reports in websummit program from HackerOne:
+## Reports in websummit program:
 1. [WebSummit - Open Redirect ](https://hackerone.com/reports/172746) | $0.0 bounty
 2. [Reflected xss on websummit.net](https://hackerone.com/reports/166699) | $0.0 bounty
 3. [Subdomain take over signup.websummit](https://hackerone.com/reports/172698) | $0.0 bounty

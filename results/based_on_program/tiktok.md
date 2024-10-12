@@ -1,4 +1,4 @@
-## Reports in tiktok program from HackerOne:
+## Reports in tiktok program:
 1. [Incorrect authorization to the intelbot service leading to ticket information](https://hackerone.com/reports/1328546) | $15000.0 bounty
 2. [Account Takeover via Authentication Bypass in TikTok Account Recovery](https://hackerone.com/reports/2443228) | $12000.0 bounty
 3. [Reflected XSS on Pangle Endpoint ](https://hackerone.com/reports/2352968) | $5000.0 bounty

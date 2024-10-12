@@ -1,4 +1,4 @@
-## Reports in localtapiola program from HackerOne:
+## Reports in localtapiola program:
 1. [Oracle Webcenter Sites administrative and hi-privilege access available directly from the internet (/cs/Satellite)](https://hackerone.com/reports/170532) | $18000.0 bounty
 2. [User able to access company details in yrityspalvelu without proper permissions](https://hackerone.com/reports/213418) | $2000.0 bounty
 3. [SQL Injection /webApp/oma_conf ctx parameter (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181803) | $1350.0 bounty

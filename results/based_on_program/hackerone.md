@@ -1,4 +1,4 @@
-## Reports in hackerone program from HackerOne:
+## Reports in hackerone program:
 1. [Server Side Request Forgery (SSRF) via Analytics Reports](https://hackerone.com/reports/2262382) | $25000.0 bounty
 2. [Account takeover via leaked session cookie](https://hackerone.com/reports/745324) | $20000.0 bounty
 3. [An attacker can archive and unarchive any structured scope object on HackerOne](https://hackerone.com/reports/1501611) | $12500.0 bounty

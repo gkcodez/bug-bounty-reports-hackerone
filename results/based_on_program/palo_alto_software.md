@@ -1,4 +1,4 @@
-## Reports in palo alto software program from HackerOne:
+## Reports in palo alto software program:
 1. [Stored XSS on upload files leads to steal cookie](https://hackerone.com/reports/765679) | $0.0 bounty
 2. [IDOR on update user preferences](https://hackerone.com/reports/854290) | $0.0 bounty
 3. [Unauthorised access to pagespeed global admin at https://webtools.paloalto.com/](https://hackerone.com/reports/870709) | $0.0 bounty

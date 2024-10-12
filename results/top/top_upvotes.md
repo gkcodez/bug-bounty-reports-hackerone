@@ -1,4 +1,4 @@
-## Top 100 reports with highest upvotes from HackerOne:
+## Top 100 reports with highest upvotes:
 1. [Takeover an account that doesn't have a Shopify ID and more](https://hackerone.com/reports/867513) | $0.0 bounty | $2915 upvotes
 2. [Bypass for #488147 enables stored XSS on https://paypal.com/signin again](https://hackerone.com/reports/510152) | $20000.0 bounty | $2601 upvotes
 3. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) | $16000.0 bounty | $1854 upvotes

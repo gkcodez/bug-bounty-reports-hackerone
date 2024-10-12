@@ -1,4 +1,4 @@
-## Reports in nextcloud program from HackerOne:
+## Reports in nextcloud program:
 1. [Attacker can obtain write access to any federated share/public link](https://hackerone.com/reports/1170024) | $4000.0 bounty
 2. [End to end encryption public key is not properly verified on Desktop and Android](https://hackerone.com/reports/1189162) | $1500.0 bounty
 3. [Arbitrary read of all SVG files on a Nextcloud server](https://hackerone.com/reports/1302155) | $1250.0 bounty

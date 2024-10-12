@@ -1,4 +1,4 @@
-## Reports in olx program from HackerOne:
+## Reports in olx program:
 1. [Arbitrary File Reading](https://hackerone.com/reports/150783) | $0.0 bounty
 2. [Manipulating joinolx.com Job Vacancy alert subscription emails (HTML Injection / Script Injection)](https://hackerone.com/reports/151149) | $0.0 bounty
 3. [Unauthorised access to olx.in user accounts. ](https://hackerone.com/reports/155130) | $0.0 bounty

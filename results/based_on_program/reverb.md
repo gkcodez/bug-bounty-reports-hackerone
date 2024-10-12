@@ -1,4 +1,4 @@
-## Reports in reverb program from HackerOne:
+## Reports in reverb program:
 1. [Possible Blind Writing to S3 Bucket](https://hackerone.com/reports/172549) | $0.0 bounty
 2. [IDOR - Ability to view unlisted products](https://hackerone.com/reports/172545) | $0.0 bounty
 3. [Persistent XSS in https://sandbox.reverb.com/item/](https://hackerone.com/reports/333008) | $0.0 bounty

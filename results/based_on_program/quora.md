@@ -1,4 +1,4 @@
-## Reports in quora program from HackerOne:
+## Reports in quora program:
 1. [[controlsyou.quora.com] 429 Too Many Requests Error-Page XSS](https://hackerone.com/reports/189768) | $0.0 bounty
 2. [[Android] XSS via start ContentActivity](https://hackerone.com/reports/189793) | $0.0 bounty
 3. [self xss in](https://hackerone.com/reports/228539) | $0.0 bounty

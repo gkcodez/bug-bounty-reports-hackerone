@@ -1,4 +1,4 @@
-## Reports in ibm program from HackerOne:
+## Reports in ibm program:
 1. [Unauthorized Kubernetes to RCE (root) and found TEAMTNT Crypto Miner on it](https://hackerone.com/reports/1317236) | $0.0 bounty
 2. [SQL Injection in IBM access control panel & Broken access in admin panel](https://hackerone.com/reports/1355817) | $0.0 bounty
 3. [Remote Code Execution at https://169.38.86.185/ (edst.ibm.com)](https://hackerone.com/reports/1379130) | $0.0 bounty

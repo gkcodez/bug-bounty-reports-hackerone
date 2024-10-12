@@ -1,4 +1,4 @@
-## Reports in flickr program from HackerOne:
+## Reports in flickr program:
 1. [Stored XSS in photos_user_map.gne](https://hackerone.com/reports/1534636) | $3263.0 bounty
 2. [critical server misconfiguration lead to access to any user sensitive data which include user email and password](https://hackerone.com/reports/1365738) | $500.0 bounty
 3. [Critical broken cookie signing on dagobah.flickr.com ](https://hackerone.com/reports/1440290) | $479.0 bounty

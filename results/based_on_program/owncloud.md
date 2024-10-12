@@ -1,4 +1,4 @@
-## Reports in owncloud program from HackerOne:
+## Reports in owncloud program:
 1. [Authentication Bypass with usage of PreSignedURL](https://hackerone.com/reports/2337427) | $2000.0 bounty
 2. [Possible to steal any protected files on Android](https://hackerone.com/reports/377107) | $750.0 bounty
 3. [Federated share permissions can be increased by recipient](https://hackerone.com/reports/1990443) | $500.0 bounty

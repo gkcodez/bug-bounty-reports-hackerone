@@ -1,4 +1,4 @@
-## Reports in moneybird program from HackerOne:
+## Reports in moneybird program:
 1. [Content Spoofing In Moneybird](https://hackerone.com/reports/133753) | $0.0 bounty
 2. [Logging out any user](https://hackerone.com/reports/147656) | $0.0 bounty
 3. [Stored XSS thru SVG upload](https://hackerone.com/reports/130591) | $0.0 bounty

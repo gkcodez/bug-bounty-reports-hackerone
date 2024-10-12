@@ -1,4 +1,4 @@
-## Reports in avito program from HackerOne:
+## Reports in avito program:
 1. [reflected XSS avito.ru](https://hackerone.com/reports/344429) | $0.0 bounty
 2. [[avito.ru] Утекают креды от платежных провайдеров](https://hackerone.com/reports/271360) | $0.0 bounty
 3. [Open Redirect via login avito.ru | Protection bypass](https://hackerone.com/reports/355558) | $0.0 bounty

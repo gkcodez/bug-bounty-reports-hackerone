@@ -1,4 +1,4 @@
-## Reports in paragon initiative enterprises program from HackerOne:
+## Reports in paragon initiative enterprises program:
 1. [Email Spoofing With Your Website's Email](https://hackerone.com/reports/163156) | $0.0 bounty
 2. [[Airship CMS] Local File Inclusion - RST Parser](https://hackerone.com/reports/179034) | $0.0 bounty
 3. [Not clearing hex-decoded variable after usage in Authentication](https://hackerone.com/reports/168293) | $0.0 bounty

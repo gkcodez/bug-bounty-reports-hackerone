@@ -1,4 +1,4 @@
-## Reports in rbkmoney program from HackerOne:
+## Reports in rbkmoney program:
 1. [Open Redirection on auth.rbk.money](https://hackerone.com/reports/295865) | $0.0 bounty
 2. [Text manipulation in https://checkout.rbk.money](https://hackerone.com/reports/299034) | $0.0 bounty
 3. [Information Disclosure - Composer.lock](https://hackerone.com/reports/294568) | $0.0 bounty

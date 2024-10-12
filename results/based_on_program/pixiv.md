@@ -1,4 +1,4 @@
-## Reports in pixiv program from HackerOne:
+## Reports in pixiv program:
 1. [RCE due to ImageTragick v2](https://hackerone.com/reports/402362) | $2000.0 bounty
 2. [Stealing Users OAuth authorization code via redirect_uri](https://hackerone.com/reports/1861974) | $2000.0 bounty
 3. [CSRF at https://chatstory.pixiv.net/imported](https://hackerone.com/reports/534908) | $500.0 bounty

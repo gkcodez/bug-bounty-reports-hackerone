@@ -1,4 +1,4 @@
-## Reports in helium program from HackerOne:
+## Reports in helium program:
 1. [Organization Takeover](https://hackerone.com/reports/809816) | $500.0 bounty
 2. [SSRF By adding a custom integration on console.helium.com](https://hackerone.com/reports/1055823) | $500.0 bounty
 3. [Race Condition of Transfer data Credits to Organization Leads to Add Extra free Data Credits to the Organization](https://hackerone.com/reports/974892) | $250.0 bounty

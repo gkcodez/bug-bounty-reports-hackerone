@@ -1,4 +1,4 @@
-## Reports in homebrew program from HackerOne:
+## Reports in homebrew program:
 1. [Host header Injection](https://hackerone.com/reports/221908) | $0.0 bounty
 2. [[https://jenkins.brew.sh] Jenkins in Debug Mode with Stack Traces Enabled](https://hackerone.com/reports/221833) | $0.0 bounty
 3. [Server version disclosure on [jenkins.brew.sh]](https://hackerone.com/reports/221989) | $0.0 bounty

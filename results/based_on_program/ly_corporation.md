@@ -1,4 +1,4 @@
-## Reports in ly corporation program from HackerOne:
+## Reports in ly corporation program:
 1. [Spring Actuator endpoints publicly available and broken authentication](https://hackerone.com/reports/838635) | $12500.0 bounty
 2. [Arbitrary Code Execution via npm misconfiguration – installing internal libraries from the public registry](https://hackerone.com/reports/1043385) | $11500.0 bounty
 3. [Spring Actuator endpoints publicly available, leading to account takeover](https://hackerone.com/reports/862589) | $5000.0 bounty

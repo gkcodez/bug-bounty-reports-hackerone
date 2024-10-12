@@ -1,4 +1,4 @@
-## Reports in mars program from HackerOne:
+## Reports in mars program:
 1. [Jolokia Reflected XSS ](https://hackerone.com/reports/1714563) | $0.0 bounty
 2. [████ ' can add animal to other account ' at ██████](https://hackerone.com/reports/1965640) | $0.0 bounty
 3. [████ ' can change any account email and cannot retrieve his account and access it ' at ███](https://hackerone.com/reports/1952771) | $0.0 bounty

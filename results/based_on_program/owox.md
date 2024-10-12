@@ -1,4 +1,4 @@
-## Reports in owox program from HackerOne:
+## Reports in owox program:
 1. [Subdomain Takeover on http://kiosk.owox.com/](https://hackerone.com/reports/182576) | $0.0 bounty
 2. [HTTP Response Splitting(CRLF injection) in bi.owox.com](https://hackerone.com/reports/171473) | $0.0 bounty
 3. [Access to Grafana Dashboard](https://hackerone.com/reports/186586) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in u program from HackerOne:
+## Reports in u program:
 1. [Arbitrary File Reading leads to RCE in the Pulse Secure SSL VPN on the https://████](https://hackerone.com/reports/695005) | $5000.0 bounty
 2. [SSRF in Functional Administrative Support Tool pdf generator (████) [HtUS]](https://hackerone.com/reports/1628209) | $4000.0 bounty
 3. [[HTAF4-213] [Pre-submission] CVE-2018-2879 (padding oracle attack in the Oracle Access Manager) at https://█████████](https://hackerone.com/reports/728110) | $3000.0 bounty

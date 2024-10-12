@@ -1,4 +1,4 @@
-## Reports in judge program from HackerOne:
+## Reports in judge program:
 1. [IDOR: leak buyer info & Publish/Hide foreign comments](https://hackerone.com/reports/1410498) | $1250.0 bounty
 2. [Email templates XSS by filterXSS bypass](https://hackerone.com/reports/1404804) | $1250.0 bounty
 3. [Stored XSS in Email Templates via link](https://hackerone.com/reports/1376672) | $500.0 bounty

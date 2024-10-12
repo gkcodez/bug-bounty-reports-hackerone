@@ -1,4 +1,4 @@
-## Reports in medium severity from HackerOne:
+## Reports in medium severity:
 1. [RepositoryPipeline allows importing of local git repos](https://hackerone.com/reports/1685822) | $22300.0 bounty
 2. [Information Disclosure in /skills call](https://hackerone.com/reports/188719) | $10000.0 bounty
 3. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) | $9700.0 bounty

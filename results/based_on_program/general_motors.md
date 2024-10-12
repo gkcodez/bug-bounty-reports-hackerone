@@ -1,4 +1,4 @@
-## Reports in general motors program from HackerOne:
+## Reports in general motors program:
 1. [Reflected Cross Site Script in m.chevrolet.com.wpsegment5.gm.com](https://hackerone.com/reports/120656) | $0.0 bounty
 2. [Content Spoof in webcaps.ecomm.gm.com](https://hackerone.com/reports/116382) | $0.0 bounty
 3. [refelected Xss on https://gmid.gm.com/gmid/jsp/GMIDInitialLogin.jsp](https://hackerone.com/reports/109461) | $0.0 bounty

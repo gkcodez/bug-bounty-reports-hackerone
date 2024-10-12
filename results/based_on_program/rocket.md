@@ -1,4 +1,4 @@
-## Reports in rocket program from HackerOne:
+## Reports in rocket program:
 1. [Remote code execution by hijacking an unclaimed S3 bucket in Rocket.Chat's installation script.](https://hackerone.com/reports/399166) | $0.0 bounty
 2. [Remote Code Execution in Rocket.Chat Desktop](https://hackerone.com/reports/276031) | $0.0 bounty
 3. [Blind XSS in the rocket.chat registration email](https://hackerone.com/reports/382666) | $0.0 bounty

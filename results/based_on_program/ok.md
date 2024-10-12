@@ -1,4 +1,4 @@
-## Reports in ok program from HackerOne:
+## Reports in ok program:
 1. [http://217.20.144.201 privilege escalation in apache tomcat SessionEample-script](https://hackerone.com/reports/77679) | $0.0 bounty
 2. [Xss in m.ok.ru](https://hackerone.com/reports/137126) | $0.0 bounty
 3. [Покупка=>скачка песен, которые не предназначены для продажи](https://hackerone.com/reports/78253) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in irccloud program from HackerOne:
+## Reports in irccloud program:
 1. [XSS from Mastodon embeds](https://hackerone.com/reports/1887917) | $500.0 bounty
 2. [IDOR with Geolocation data not stripped from images](https://hackerone.com/reports/906907) | $200.0 bounty
 3. [Missing robots exclusion header for user uploads](https://hackerone.com/reports/275443) | $50.0 bounty

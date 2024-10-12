@@ -1,4 +1,4 @@
-## Reports in internet bug bounty program from HackerOne:
+## Reports in internet bug bounty program:
 1. [Possible DoS Vulnerability with Range Header in Rack](https://hackerone.com/reports/2520679) | $5420.0 bounty
 2. [Double free vulnerability in Flash Player Settings Manager (CVE-2015-0346)](https://hackerone.com/reports/56385) | $5000.0 bounty
 3. [CVE-2024-34750 Apache Tomcat DoS vulnerability in HTTP/2 connector](https://hackerone.com/reports/2586226) | $4920.0 bounty

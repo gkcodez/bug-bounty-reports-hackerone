@@ -1,4 +1,4 @@
-## Reports in ubiquiti inc program from HackerOne:
+## Reports in ubiquiti inc program:
 1. [Reflected XSS in scores.ubnt.com](https://hackerone.com/reports/130889) | $0.0 bounty
 2. [Open Redirect in unifi.ubnt.com [Controller Finder]](https://hackerone.com/reports/141355) | $0.0 bounty
 3. [Shell Injection via Web Management Console (dl-fw.cgi)](https://hackerone.com/reports/121940) | $0.0 bounty

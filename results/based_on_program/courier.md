@@ -1,4 +1,4 @@
-## Reports in courier program from HackerOne:
+## Reports in courier program:
 1. [disable test send feature if user's email address isn't verified](https://hackerone.com/reports/906226) | $0.0 bounty
 2. [Logout page does not prevent CSRF](https://hackerone.com/reports/905831) | $0.0 bounty
 3. [SSO Provider Credential Cache (logged out of Google/GitHub, could still log into Courier)](https://hackerone.com/reports/880730) | $0.0 bounty

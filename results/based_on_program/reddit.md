@@ -1,4 +1,4 @@
-## Reports in reddit program from HackerOne:
+## Reports in reddit program:
 1. [XSS via Mod Log Removed Posts](https://hackerone.com/reports/1504410) | $6000.0 bounty
 2. [Blind SSRF to internal services in matrix preview_link API](https://hackerone.com/reports/1960765) | $6000.0 bounty
 3. [s3 bucket takeover presented in https://github.com/reddit/rpan-studio/blob/e1782332c75ecb2f774343258ff509788feab7ce/CI/full-build-macos.sh](https://hackerone.com/reports/1285598) | $5000.0 bounty

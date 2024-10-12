@@ -1,4 +1,4 @@
-## Reports in zomato program from HackerOne:
+## Reports in zomato program:
 1. [[www.zomato.com] SQLi - /php/██████████ - item_id](https://hackerone.com/reports/403616) | $4500.0 bounty
 2. [Claiming the listing of a non-delivery restaurant through OTP manipulation](https://hackerone.com/reports/1330529) | $3250.0 bounty
 3. [Availing Zomato gold by using a random third-party `wallet_id`](https://hackerone.com/reports/938021) | $2000.0 bounty

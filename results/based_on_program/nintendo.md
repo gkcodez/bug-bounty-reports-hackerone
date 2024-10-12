@@ -1,4 +1,4 @@
-## Reports in nintendo program from HackerOne:
+## Reports in nintendo program:
 1. [[3DS][SSL] Improper certificate validation allows an attacker to perform MitM attacks](https://hackerone.com/reports/894922) | $0.0 bounty
 2. [[3DS][SSL] Use of uninitialized class member leads to RCE in eShop movie player](https://hackerone.com/reports/895769) | $0.0 bounty
 3. [[3DS][SSL][SDK] Unchecked number of audio channels in Mobiclip SDK leads to RCE in eShop movie player](https://hackerone.com/reports/897606) | $0.0 bounty

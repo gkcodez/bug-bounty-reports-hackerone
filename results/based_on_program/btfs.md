@@ -1,4 +1,4 @@
-## Reports in btfs program from HackerOne:
+## Reports in btfs program:
 1. [Subdomain Takeover uptime](https://hackerone.com/reports/824909) | $100.0 bounty
 2. [frame injection on bittorrent.com](https://hackerone.com/reports/846430) | $0.0 bounty
 3. [misconfigured CORS let to HPP and SOP bypass](https://hackerone.com/reports/867436) | $0.0 bounty

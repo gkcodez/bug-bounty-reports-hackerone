@@ -1,4 +1,4 @@
-## Reports in lark technologies program from HackerOne:
+## Reports in lark technologies program:
 1. [Full read SSRF via Lark Docs `import as docs` feature ](https://hackerone.com/reports/1409727) | $5000.0 bounty
 2. [Stored XSS & SSRF in Lark Docs](https://hackerone.com/reports/892049) | $3000.0 bounty
 3. [RPC Implementation allows unauthenticated remote calls](https://hackerone.com/reports/876022) | $1250.0 bounty

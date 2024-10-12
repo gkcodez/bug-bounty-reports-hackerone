@@ -1,4 +1,4 @@
-## Reports in ed program from HackerOne:
+## Reports in ed program:
 1. [Oauth flow on the comments widget login can lead to the access code leakage](https://hackerone.com/reports/292783) | $0.0 bounty
 2. [Fix for self-DoS in Security-txt Chrome Extension.](https://hackerone.com/reports/299460) | $0.0 bounty
 3. [DOM XSS in edoverflow.com/tools/respond due to unsafe usage of the innerHTML property.](https://hackerone.com/reports/341969) | $0.0 bounty

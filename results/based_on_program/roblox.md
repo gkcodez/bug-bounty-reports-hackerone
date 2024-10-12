@@ -1,4 +1,4 @@
-## Reports in roblox program from HackerOne:
+## Reports in roblox program:
 1. [Reflected XSS through multiple inputs in the issue collector on Jira](https://hackerone.com/reports/380354) | $0.0 bounty
 2. [Subdomain Takeover at creatorforum.roblox.com](https://hackerone.com/reports/264494) | $0.0 bounty
 3. [Subdomain Takeover to Authentication bypass ](https://hackerone.com/reports/335330) | $0.0 bounty

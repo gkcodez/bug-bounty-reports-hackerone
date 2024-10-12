@@ -1,4 +1,4 @@
-## Reports in greenhouse program from HackerOne:
+## Reports in greenhouse program:
 1. [Open S3 Bucket Accessible by any Aws User](https://hackerone.com/reports/819278) | $100.0 bounty
 2. [[greenhouse.io] CRLF Injection / Insecure nginx configuration](https://hackerone.com/reports/25275) | $0.0 bounty
 3. [Open Redirect in <customer>.greenhouse.io](https://hackerone.com/reports/203726) | $0.0 bounty

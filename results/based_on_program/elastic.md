@@ -1,4 +1,4 @@
-## Reports in elastic program from HackerOne:
+## Reports in elastic program:
 1. [Remote Code Execution on Cloud via latest Kibana 7.6.2](https://hackerone.com/reports/852613) | $10000.0 bounty
 2. [RCE hazard in reporting (via Chromium)](https://hackerone.com/reports/1168765) | $10000.0 bounty
 3. [Remote Code Execution in coming Kibana 7.7.0](https://hackerone.com/reports/861744) | $5000.0 bounty

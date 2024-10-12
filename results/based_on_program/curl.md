@@ -1,4 +1,4 @@
-## Reports in curl program from HackerOne:
+## Reports in curl program:
 1. [CVE-2021-22901: TLS session caching disaster](https://hackerone.com/reports/1180380) | $2000.0 bounty
 2. [CVE-2021-22924: Bad connection reuse due to flawed path name checks](https://hackerone.com/reports/1223565) | $1200.0 bounty
 3. [CVE-2021-22898: TELNET stack contents disclosure](https://hackerone.com/reports/1176461) | $1000.0 bounty

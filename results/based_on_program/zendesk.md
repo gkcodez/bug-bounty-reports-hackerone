@@ -1,4 +1,4 @@
-## Reports in zendesk program from HackerOne:
+## Reports in zendesk program:
 1. [Full Sub Domain Takeover at wx.zopim.net](https://hackerone.com/reports/174395) | $0.0 bounty
 2. [[status.zopim.com] Open Redirect](https://hackerone.com/reports/104896) | $0.0 bounty
 3. [AWS S3 bucket writable for authenticated aws user](https://hackerone.com/reports/131523) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in jetblue program from HackerOne:
+## Reports in jetblue program:
 1. [Dom-Based XSS on parameter ?vsid=](https://hackerone.com/reports/1452149) | $0.0 bounty
 2. [Open Redirect](https://hackerone.com/reports/1457736) | $0.0 bounty
 3. [Access to tomcat-manager with default creds](https://hackerone.com/reports/1267174) | $0.0 bounty

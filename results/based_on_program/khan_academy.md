@@ -1,4 +1,4 @@
-## Reports in khan academy program from HackerOne:
+## Reports in khan academy program:
 1. [OPEN URL REDIRECT through PNG files](https://hackerone.com/reports/163272) | $0.0 bounty
 2. [No Security check at changing password and at adding mobile number which leads to account takeover and spam](https://hackerone.com/reports/207552) | $0.0 bounty
 3. [ SSL/TLS Vulnerability at khanacademy.org](https://hackerone.com/reports/207457) | $0.0 bounty

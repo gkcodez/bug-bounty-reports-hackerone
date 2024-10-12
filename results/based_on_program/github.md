@@ -1,4 +1,4 @@
-## Reports in github program from HackerOne:
+## Reports in github program:
 1. [SAML Signature verification bypass allows logging into any user (with specific conditions)](https://hackerone.com/reports/2579939) | $25000.0 bounty
 2. [Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api](https://hackerone.com/reports/1711938) | $20000.0 bounty
 3. [CSRF protection bypass in GitHub Enterprise management console](https://hackerone.com/reports/1497169) | $10000.0 bounty

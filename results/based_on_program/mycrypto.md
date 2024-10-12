@@ -1,4 +1,4 @@
-## Reports in mycrypto program from HackerOne:
+## Reports in mycrypto program:
 1. [Html injection mycrypto.com](https://hackerone.com/reports/324548) | $0.0 bounty
 2. [DOM Based XSS in mycrypto.com](https://hackerone.com/reports/324303) | $0.0 bounty
 3. [Reflected XSS { support.mycrypto.com }](https://hackerone.com/reports/323566) | $0.0 bounty

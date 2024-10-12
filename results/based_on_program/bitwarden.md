@@ -1,4 +1,4 @@
-## Reports in bitwarden program from HackerOne:
+## Reports in bitwarden program:
 1. [Export vault feature is vulnerable to CSV injection](https://hackerone.com/reports/272272) | $0.0 bounty
 2. [Mailgun misconfiguration on email.bitwarden.com](https://hackerone.com/reports/272357) | $0.0 bounty
 3. [Organization Admin Privilege Escalation To Owner](https://hackerone.com/reports/272570) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in blockchain program from HackerOne:
+## Reports in blockchain program:
 1. [Information disclosure at https://blockchain.atlassian.net](https://hackerone.com/reports/179599) | $100.0 bounty
 2. [server version dislosure](https://hackerone.com/reports/179217) | $0.0 bounty
 3. [Reflected XSS on blockchain.info](https://hackerone.com/reports/179426) | $0.0 bounty

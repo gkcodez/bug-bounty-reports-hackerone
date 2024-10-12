@@ -1,4 +1,4 @@
-## Reports in mavenlink program from HackerOne:
+## Reports in mavenlink program:
 1. [Cookies are not cleared from Server side on Logout](https://hackerone.com/reports/21172) | $0.0 bounty
 2. [Tabnabbing via Window.Opener @Mavenlink](https://hackerone.com/reports/220737) | $0.0 bounty
 3. [Password reset link injection allows redirect to malicious URL](https://hackerone.com/reports/281575) | $0.0 bounty

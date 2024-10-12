@@ -1,4 +1,4 @@
-## Reports in semmle program from HackerOne:
+## Reports in semmle program:
 1. [Worker container escape lead to arbitrary file reading in host machine](https://hackerone.com/reports/694181) | $2000.0 bounty
 2. [Worker container escape lead to arbitrary file reading in host machine [again]](https://hackerone.com/reports/697055) | $2000.0 bounty
 3. [Privilege escalation in workers container ](https://hackerone.com/reports/692603) | $1500.0 bounty

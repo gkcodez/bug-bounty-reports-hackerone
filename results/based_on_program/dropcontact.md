@@ -1,4 +1,4 @@
-## Reports in dropcontact program from HackerOne:
+## Reports in dropcontact program:
 1. [Ngnix Server version disclosure.](https://hackerone.com/reports/947637) | $0.0 bounty
 2. [User can Subscribe a plan that is hidden by manipulating the value of "subscription" parameter at [ https://app.dropcontact.io/app/checkout/]](https://hackerone.com/reports/947982) | $0.0 bounty
 3. [Unauthorized Access and updation of EMAIL settings of other user  at https://app.dropcontact.io/app/sponsorship/ by changing the " email " parameter.](https://hackerone.com/reports/953866) | $0.0 bounty

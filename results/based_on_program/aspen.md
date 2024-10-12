@@ -1,4 +1,4 @@
-## Reports in aspen program from HackerOne:
+## Reports in aspen program:
 1. [aspen | clickjacking](https://hackerone.com/reports/272387) | $0.0 bounty
 2. [Server Path Disclosure ](https://hackerone.com/reports/272426) | $0.0 bounty
 3. [Cross-origin resource sharing (CORS)](https://hackerone.com/reports/272432) | $0.0 bounty

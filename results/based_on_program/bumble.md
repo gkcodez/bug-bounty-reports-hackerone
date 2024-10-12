@@ -1,4 +1,4 @@
-## Reports in bumble program from HackerOne:
+## Reports in bumble program:
 1. [Reflected XSS](https://hackerone.com/reports/739601) | $1000.0 bounty
 2. [Bumble API exposes read status of chat messages](https://hackerone.com/reports/1080437) | $600.0 bounty
 3. [CSRF Attack on (m.badoo.com)deleting account and erasing imported contacts](https://hackerone.com/reports/192131) | $280.0 bounty

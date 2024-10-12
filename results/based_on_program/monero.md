@@ -1,4 +1,4 @@
-## Reports in monero program from HackerOne:
+## Reports in monero program:
 1. [Kovri: potential buffer over-read in garlic clove handling + I2NP message creation](https://hackerone.com/reports/291489) | $0.0 bounty
 2. [remote access to localhost daemon, can issue jsonrpc commands](https://hackerone.com/reports/303390) | $0.0 bounty
 3. [Corrupt RPC responses from remote daemon nodes can lead to transaction tracing](https://hackerone.com/reports/304770) | $0.0 bounty

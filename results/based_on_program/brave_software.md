@@ -1,4 +1,4 @@
-## Reports in brave software program from HackerOne:
+## Reports in brave software program:
 1. [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) | $5300.0 bounty
 2. [UAF on JSEthereumProvider](https://hackerone.com/reports/1977252) | $3000.0 bounty
 3. [New XSS vector in ReaderMode with %READER-TITLE-NONCE%](https://hackerone.com/reports/1436142) | $1000.0 bounty

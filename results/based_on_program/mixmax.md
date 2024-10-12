@@ -1,4 +1,4 @@
-## Reports in mixmax program from HackerOne:
+## Reports in mixmax program:
 1. [Subdomain takeover (sales.mixmax.com)](https://hackerone.com/reports/233408) | $0.0 bounty
 2. [Possible Subdomain Takeover](https://hackerone.com/reports/233402) | $0.0 bounty
 3. [CSRF](https://hackerone.com/reports/226612) | $0.0 bounty

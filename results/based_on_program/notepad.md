@@ -1,4 +1,4 @@
-## Reports in notepad program from HackerOne:
+## Reports in notepad program:
 1. [Crash](https://hackerone.com/reports/496113) | $0.0 bounty
 2. [Security check failure or stack buffer overrun (crash)](https://hackerone.com/reports/481335) | $0.0 bounty
 3. [A stack buffer overflow in BabyGrid.cpp can lead to program crashes via a malicious localization file](https://hackerone.com/reports/497255) | $0.0 bounty

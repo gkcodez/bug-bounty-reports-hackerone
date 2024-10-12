@@ -1,4 +1,4 @@
-## Reports in liberapay program from HackerOne:
+## Reports in liberapay program:
 1. [Email Address Exposure via Gratipay Migration Tool](https://hackerone.com/reports/1727044) | $100.0 bounty
 2. [Origin IP found, Cloudflare bypassed](https://hackerone.com/reports/360825) | $0.0 bounty
 3. [CSRF to make any user accept the invitation to the team](https://hackerone.com/reports/360834) | $0.0 bounty

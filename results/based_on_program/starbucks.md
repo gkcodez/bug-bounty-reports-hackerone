@@ -1,4 +1,4 @@
-## Reports in starbucks program from HackerOne:
+## Reports in starbucks program:
 1. [www.starbucks.co.uk Reflected XSS via utm_source parameter](https://hackerone.com/reports/140616) | $0.0 bounty
 2. [Subdomain takeover on happymondays.starbucks.com due to non-used AWS S3 DNS record](https://hackerone.com/reports/186766) | $0.0 bounty
 3. [Dom Based Xss DIV.innerHTML  parameters store.starbucks*](https://hackerone.com/reports/188185) | $0.0 bounty

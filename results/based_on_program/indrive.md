@@ -1,4 +1,4 @@
-## Reports in indrive program from HackerOne:
+## Reports in indrive program:
 1. [Blind SQL injection on id.indrive.com](https://hackerone.com/reports/2051931) | $4134.0 bounty
 2. [Change phone number OTP flaw leads to any phone number takeover](https://hackerone.com/reports/2588329) | $2000.0 bounty
 3. [inDriver Job - Admin Approval Bypass](https://hackerone.com/reports/1861487) | $1000.0 bounty

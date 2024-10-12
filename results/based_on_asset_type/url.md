@@ -1,5 +1,5 @@
 
-## Reports in url asset type from HackerOne:1. [Github access token exposure](https://hackerone.com/reports/1087489) | $50000.0 bounty
+## Reports in url asset type:1. [Github access token exposure](https://hackerone.com/reports/1087489) | $50000.0 bounty
 2. [RCE via npm misconfig -- installing internal libraries from the public registry](https://hackerone.com/reports/925585) | $30000.0 bounty
 3. [Arbitrary file read  via the bulk imports UploadsPipeline](https://hackerone.com/reports/1439593) | $29000.0 bounty
 4. [SQL Injection in report_xml.php through countryFilter[] parameter](https://hackerone.com/reports/383127) | $25000.0 bounty

@@ -1,4 +1,4 @@
-## Reports in shipt program from HackerOne:
+## Reports in shipt program:
 1. [Improper Access Control + Financial fraud allows attacker to disclose + add arbitrary products to another's user's order ](https://hackerone.com/reports/1903322) | $3900.0 bounty
 2. [Subdomain Takeover at test.shipt.com](https://hackerone.com/reports/387760) | $750.0 bounty
 3. [Vulnerabilities in exported activity WebView](https://hackerone.com/reports/414101) | $350.0 bounty

@@ -1,4 +1,4 @@
-## Reports in acronis program from HackerOne:
+## Reports in acronis program:
 1. [[CVE-2021-44228] nps.acronis.com is vulnerable to the recent log4shell 0-day](https://hackerone.com/reports/1425474) | $1000.0 bounty
 2. [ mail.acronis.com is vulnerable to zero day vulnerability CVE-2022-41040](https://hackerone.com/reports/1719719) | $1000.0 bounty
 3. [Ticket Trick at https://account.acronis.com](https://hackerone.com/reports/999765) | $750.0 bounty

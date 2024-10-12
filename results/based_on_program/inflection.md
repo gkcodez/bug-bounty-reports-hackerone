@@ -1,4 +1,4 @@
-## Reports in inflection program from HackerOne:
+## Reports in inflection program:
 1. [Identity Login Page Redirect Can Be Manipulated](https://hackerone.com/reports/243474) | $0.0 bounty
 2. [Open Redirect through POST Request](https://hackerone.com/reports/242243) | $0.0 bounty
 3. [No password confirmation on changing primary email address](https://hackerone.com/reports/276816) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in uber program from HackerOne:
+## Reports in uber program:
 1. [[Pre-Submission][H1-4420-2019] API access to Phabricator on code.uberinternal.com from leaked certificate in git repo](https://hackerone.com/reports/591813) | $39999.99 bounty
 2. [RCE via npm misconfig -- installing internal libraries from the public registry](https://hackerone.com/reports/1007014) | $9000.0 bounty
 3. [SAML Authentication Bypass on uchat.uberinternal.com](https://hackerone.com/reports/223014) | $8500.0 bounty

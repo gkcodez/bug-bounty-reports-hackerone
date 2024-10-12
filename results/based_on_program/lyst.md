@@ -1,4 +1,4 @@
-## Reports in lyst program from HackerOne:
+## Reports in lyst program:
 1. [Subdomain takeover of storybook.lystit.com](https://hackerone.com/reports/779442) | $1000.0 bounty
 2. [CSRF - Adding unlimited number of saved items via GET request](https://hackerone.com/reports/205953) | $150.0 bounty
 3. [Site configured improperly at subdomain of lyst.co.uk](https://hackerone.com/reports/208480) | $100.0 bounty

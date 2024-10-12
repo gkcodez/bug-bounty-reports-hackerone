@@ -1,4 +1,4 @@
-## Reports in expedia group bug bounty program from HackerOne:
+## Reports in expedia group bug bounty program:
 1. [Open Redirect in Logout & Login](https://hackerone.com/reports/1788006) | $1000.0 bounty
 2. [Cache Poisoning Allows Stored XSS Via hav Cookie Parameter (To Account Takeover)](https://hackerone.com/reports/1760213) | $750.0 bounty
 3. [Cache Deception Allows Account Takeover](https://hackerone.com/reports/1698316) | $750.0 bounty

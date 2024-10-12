@@ -1,4 +1,4 @@
-## Reports in mapbox program from HackerOne:
+## Reports in mapbox program:
 1. [Admin Panel Accessed (OAuth Bypassed ) ](https://hackerone.com/reports/294911) | $4000.0 bounty
 2. [Mapbox Android SDK uses Broadcast Receiver instead of Local Broadcast Manager](https://hackerone.com/reports/192886) | $1000.0 bounty
 3. [Stored xss in editor ](https://hackerone.com/reports/53730) | $1000.0 bounty

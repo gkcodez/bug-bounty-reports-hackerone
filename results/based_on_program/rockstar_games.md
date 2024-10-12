@@ -1,4 +1,4 @@
-## Reports in rockstar games program from HackerOne:
+## Reports in rockstar games program:
 1. [Blind SSRF in emblem editor (2)](https://hackerone.com/reports/265050) | $1500.0 bounty
 2. [SMB SSRF in emblem editor exposes taketwo domain credentials, may lead to RCE](https://hackerone.com/reports/288353) | $1500.0 bounty
 3. [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139) | $1500.0 bounty

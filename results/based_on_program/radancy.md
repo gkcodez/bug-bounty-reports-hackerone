@@ -1,4 +1,4 @@
-## Reports in radancy program from HackerOne:
+## Reports in radancy program:
 1. [Facebook and twitter page claimed of maximum.com [important]](https://hackerone.com/reports/170894) | $0.0 bounty
 2. [Microsoft IIS tilde directory enumeration](https://hackerone.com/reports/148777) | $0.0 bounty
 3. [Application error message](https://hackerone.com/reports/148963) | $0.0 bounty

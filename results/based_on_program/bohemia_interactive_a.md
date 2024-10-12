@@ -1,4 +1,4 @@
-## Reports in bohemia interactive a program from HackerOne:
+## Reports in bohemia interactive a program:
 1. [Clickjacking at ylands.com](https://hackerone.com/reports/405342) | $80.0 bounty
 2. [Stealing Users OAUTH Tokens via redirect_uri ](https://hackerone.com/reports/405100) | $0.0 bounty
 3. [217.147.95.145 NFS Exposed with Zeus Server configs](https://hackerone.com/reports/287837) | $0.0 bounty

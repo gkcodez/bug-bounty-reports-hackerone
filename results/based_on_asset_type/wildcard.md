@@ -1,5 +1,5 @@
 
-## Reports in wildcard asset type from HackerOne:1. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) | $20160.0 bounty
+## Reports in wildcard asset type:1. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) | $20160.0 bounty
 2. [Spring Actuator endpoints publicly available and broken authentication](https://hackerone.com/reports/838635) | $12500.0 bounty
 3. [XSS at jamfpro.shopifycloud.com](https://hackerone.com/reports/1444682) | $9400.0 bounty
 4. [Account Takeover in Periscope TV](https://hackerone.com/reports/317476) | $7560.0 bounty

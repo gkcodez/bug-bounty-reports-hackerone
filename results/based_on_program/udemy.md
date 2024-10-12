@@ -1,4 +1,4 @@
-## Reports in udemy program from HackerOne:
+## Reports in udemy program:
 1. [NON VALIDATION OF SESSIONS AFTER PASSWORD CHANGE](https://hackerone.com/reports/164239) | $0.0 bounty
 2. [AWS S3 bucket writable for authenticated aws user](https://hackerone.com/reports/131468) | $0.0 bounty
 3. [Udemy s3 storage can be used by an attacker personal website because of missing CSRF Token](https://hackerone.com/reports/172707) | $0.0 bounty

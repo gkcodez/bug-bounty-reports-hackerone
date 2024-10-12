@@ -1,4 +1,4 @@
-## Reports in omise program from HackerOne:
+## Reports in omise program:
 1. [Host Header Injection leads to Open Redirect and Content Spoofing or Text Injection.](https://hackerone.com/reports/1444675) | $300.0 bounty
 2. [XSS via X-Forwarded-Host header](https://hackerone.com/reports/1392935) | $200.0 bounty
 3. [Cross-site scripting on dashboard2.omise.co](https://hackerone.com/reports/1532858) | $200.0 bounty

@@ -1,4 +1,4 @@
-## Reports in automattic program from HackerOne:
+## Reports in automattic program:
 1. [[bbPress] Stored XSS in any forum post.](https://hackerone.com/reports/151117) | $0.0 bounty
 2. [WooCommerce: Support Ticket indirect object reference](https://hackerone.com/reports/91599) | $0.0 bounty
 3. [Follow Button XSS](https://hackerone.com/reports/172574) | $0.0 bounty

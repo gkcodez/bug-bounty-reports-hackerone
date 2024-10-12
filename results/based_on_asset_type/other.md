@@ -1,5 +1,5 @@
 
-## Reports in other asset type from HackerOne:1. [RCE via the DecompressedArchiveSizeValidator and Project BulkImports (behind feature flag)](https://hackerone.com/reports/1609965) | $33510.0 bounty
+## Reports in other asset type:1. [RCE via the DecompressedArchiveSizeValidator and Project BulkImports (behind feature flag)](https://hackerone.com/reports/1609965) | $33510.0 bounty
 2. [Remote Command Execution via Github import](https://hackerone.com/reports/1679624) | $33510.0 bounty
 3. [Arbitrary file read via the UploadsRewriter when moving and issue](https://hackerone.com/reports/827052) | $20000.0 bounty
 4. [RCE via unsafe inline Kramdown options when rendering certain Wiki pages](https://hackerone.com/reports/1125425) | $20000.0 bounty

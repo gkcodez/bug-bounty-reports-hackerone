@@ -1,4 +1,4 @@
-## Reports in libsass program from HackerOne:
+## Reports in libsass program:
 1. [null pointer dereference in Sass::Eval::operator()(Sass::Map*)](https://hackerone.com/reports/221287) | $0.0 bounty
 2. [heap-use-after-free in Sass::SharedPtr::incRefCount()](https://hackerone.com/reports/221289) | $0.0 bounty
 3. [stack overflow in libsass](https://hackerone.com/reports/221260) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in fetlife program from HackerOne:
+## Reports in fetlife program:
 1. [Specific Payload makes a Users Posts unavailable](https://hackerone.com/reports/1176794) | $100.0 bounty
 2. [Google API key leaked to Public](https://hackerone.com/reports/1065041) | $0.0 bounty
 3. [Stored XSS via `Create a Fetish` section.](https://hackerone.com/reports/1085914) | $0.0 bounty

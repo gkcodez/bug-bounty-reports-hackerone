@@ -1,4 +1,4 @@
-## Reports in central security project program from HackerOne:
+## Reports in central security project program:
 1. [c3p0 may be exploited by a Billion Laughs Attack when loading XML configuration](https://hackerone.com/reports/509315) | $0.0 bounty
 2. [Pippo XML Entity Expansion (Billion Laughs Attack)](https://hackerone.com/reports/506791) | $0.0 bounty
 3. [OS Command Injection in Nexus Repository Manager 2.x](https://hackerone.com/reports/654888) | $0.0 bounty

@@ -1,4 +1,4 @@
-## Reports in openmage program from HackerOne:
+## Reports in openmage program:
 1. [ Sharing products with Mail allows phishing attacks due to misconfiguration.](https://hackerone.com/reports/1083923) | $0.0 bounty
 2. [No error thrown when IDOR attempted while editing address](https://hackerone.com/reports/1085743) | $0.0 bounty
 3. [Very long names on demo.openmage.org could redirect victim users to malicious url redirects via email contacts.](https://hackerone.com/reports/1091957) | $0.0 bounty

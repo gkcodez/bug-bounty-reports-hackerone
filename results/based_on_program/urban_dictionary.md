@@ -1,4 +1,4 @@
-## Reports in urban dictionary program from HackerOne:
+## Reports in urban dictionary program:
 1. [Text injection on Auth problem at urbandictionary.com](https://hackerone.com/reports/189356) | $0.0 bounty
 2. [Session replay vulnerability in www.urbandictionary.com](https://hackerone.com/reports/216294) | $0.0 bounty
 3. [Race Condition in Definition Votes](https://hackerone.com/reports/152717) | $0.0 bounty

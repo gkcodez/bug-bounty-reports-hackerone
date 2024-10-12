@@ -1,4 +1,4 @@
-## Reports in blockdev sp program from HackerOne:
+## Reports in blockdev sp program:
 1. [xmlrpc.php FILE IS enabled it will used for Bruteforce attack and Denial of Service(DoS)](https://hackerone.com/reports/1086850) | $500.0 bounty
 2. [Earn free DAI interest (inflation) through instant CDP+DSR in one tx](https://hackerone.com/reports/665798) | $0.0 bounty
 3. [Steal collateral during `end` process, by earning DSR interest after `flow`.](https://hackerone.com/reports/672664) | $0.0 bounty

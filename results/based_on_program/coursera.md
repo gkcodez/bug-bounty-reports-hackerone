@@ -1,4 +1,4 @@
-## Reports in coursera program from HackerOne:
+## Reports in coursera program:
 1. [Broken authentication and session management flaw ](https://hackerone.com/reports/152080) | $0.0 bounty
 2. [XSS in https://www.coursera.org/courses/](https://hackerone.com/reports/127163) | $0.0 bounty
 3. [Stored XSS via transloadit.com and imageproxy](https://hackerone.com/reports/216822) | $0.0 bounty

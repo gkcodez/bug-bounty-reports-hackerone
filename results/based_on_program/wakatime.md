@@ -1,4 +1,4 @@
-## Reports in wakatime program from HackerOne:
+## Reports in wakatime program:
 1. [Session Not Expired On Logout](https://hackerone.com/reports/244875) | $0.0 bounty
 2. [Mailgun misconfiguration ](https://hackerone.com/reports/244474) | $0.0 bounty
 3. [Missing SPF Flags](https://hackerone.com/reports/244432) | $0.0 bounty

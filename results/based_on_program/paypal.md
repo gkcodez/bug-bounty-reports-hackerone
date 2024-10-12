@@ -1,4 +1,4 @@
-## Reports in paypal program from HackerOne:
+## Reports in paypal program:
 1. [RCE via npm misconfig -- installing internal libraries from the public registry](https://hackerone.com/reports/925585) | $30000.0 bounty
 2. [Bypass for #488147 enables stored XSS on https://paypal.com/signin again](https://hackerone.com/reports/510152) | $20000.0 bounty
 3. [Stored XSS on https://paypal.com/signin via cache poisoning](https://hackerone.com/reports/488147) | $18900.0 bounty

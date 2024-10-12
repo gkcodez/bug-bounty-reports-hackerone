@@ -1,4 +1,4 @@
-## Reports in sifchain program from HackerOne:
+## Reports in sifchain program:
 1. [Wrong Url in Main Page](https://hackerone.com/reports/1188629) | $200.0 bounty
 2. [xmlrpc.php And /wp-json/wp/v2/users FILE IS enable it will used for bruteforce attack and denial of service](https://hackerone.com/reports/1147449) | $50.0 bounty
 3. [Possibility of DoS attack at https://sifchain.finance// via CVE-2018-6389 exploitation](https://hackerone.com/reports/1186985) | $0.0 bounty

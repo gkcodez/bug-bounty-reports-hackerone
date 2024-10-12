@@ -1,4 +1,4 @@
-## Reports in infogram program from HackerOne:
+## Reports in infogram program:
 1. [User enumeration via forgot password error message](https://hackerone.com/reports/282564) | $0.0 bounty
 2. [User Enumeration](https://hackerone.com/reports/280509) | $0.0 bounty
 3. [Login Cross Site Request Forgery ](https://hackerone.com/reports/283482) | $0.0 bounty

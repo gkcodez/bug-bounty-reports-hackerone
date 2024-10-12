@@ -1,4 +1,4 @@
-## Reports in node program from HackerOne:
+## Reports in node program:
 1. [DNS rebinding in --inspect (insufficient fix of CVE-2018-7160)](https://hackerone.com/reports/1069487) | $500.0 bounty
 2. [Malformed HTTP/2 SETTINGS frame leads to reachable assert](https://hackerone.com/reports/800140) | $250.0 bounty
 3. [napi_get_value_string_X allow various kinds of memory corruption](https://hackerone.com/reports/784186) | $250.0 bounty

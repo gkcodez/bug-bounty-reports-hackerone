@@ -1,4 +1,4 @@
-## Reports in wordpress program from HackerOne:
+## Reports in wordpress program:
 1. [Administrator(s) Information disclosure via JSON on wordpress.org](https://hackerone.com/reports/221734) | $0.0 bounty
 2. [Lack of Password Confirmation when Changing Password and Email](https://hackerone.com/reports/224214) | $0.0 bounty
 3. [XSS in the search bar of mercantile.wordpress.org](https://hackerone.com/reports/221893) | $0.0 bounty

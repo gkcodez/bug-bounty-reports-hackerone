@@ -1,4 +1,4 @@
-## Reports in yahoo program from HackerOne:
+## Reports in yahoo program:
 1. [Bitly link takeover ](https://hackerone.com/reports/2086495) | $0.0 bounty
 2. [Code execution in "ymon" WebService, reached after bypassing the anti-loopback blacklist through YQL and HTTP redirects](https://hackerone.com/reports/4170) | $0.0 bounty
 3. [Read arbitrary XML files on YQL backend servers via XSLT document()](https://hackerone.com/reports/19677) | $0.0 bounty

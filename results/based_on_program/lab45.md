@@ -1,4 +1,4 @@
-## Reports in lab45 program from HackerOne:
+## Reports in lab45 program:
 1. [Cross Site Scripting via CVE-2018-5230 on https://apps.topcoder.com](https://hackerone.com/reports/781284) | $0.0 bounty
 2. [PII of Users Disclosure using "/members/invite/" endpoint](https://hackerone.com/reports/787955) | $0.0 bounty
 3. [CSRF on https://apps.topcoder.com/wiki/users general and email preferences](https://hackerone.com/reports/868583) | $0.0 bounty

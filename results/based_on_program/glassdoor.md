@@ -1,4 +1,4 @@
-## Reports in glassdoor program from HackerOne:
+## Reports in glassdoor program:
 1. [Reflected XSS on https://www.glassdoor.com/employers/sem-dual-lp/](https://hackerone.com/reports/846338) | $0.0 bounty
 2. [2FA bypass by sending blank code](https://hackerone.com/reports/897385) | $0.0 bounty
 3. [Site wide CSRF affecting both job seeker and Employer account on glassdoor.com](https://hackerone.com/reports/790061) | $0.0 bounty

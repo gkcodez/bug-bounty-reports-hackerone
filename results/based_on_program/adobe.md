@@ -1,4 +1,4 @@
-## Reports in adobe program from HackerOne:
+## Reports in adobe program:
 1. [Adobe XSS](https://hackerone.com/reports/50389) | $0.0 bounty
 2. [Parameter tampering can result in product price manipulation](https://hackerone.com/reports/218748) | $0.0 bounty
 3. [Disclosure of github access token in config file via nignx off-by-slash](https://hackerone.com/reports/1386547) | $0.0 bounty

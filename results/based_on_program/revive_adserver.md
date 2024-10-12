@@ -1,4 +1,4 @@
-## Reports in revive adserver program from HackerOne:
+## Reports in revive adserver program:
 1. [Weak Forgot Password implementation](https://hackerone.com/reports/176116) | $0.0 bounty
 2. [Reflected XSS on Zones > Invocation Code](https://hackerone.com/reports/178611) | $0.0 bounty
 3. [Stored XSS on Admin Access Page - Email field](https://hackerone.com/reports/173501) | $0.0 bounty

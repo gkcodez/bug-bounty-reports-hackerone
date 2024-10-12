@@ -1,4 +1,4 @@
-## Reports in rubygems program from HackerOne:
+## Reports in rubygems program:
 1. [Remote code execution on rubygems.org](https://hackerone.com/reports/274990) | $1500.0 bounty
 2. [Installing a crafted gem package may create or overwrite files](https://hackerone.com/reports/243156) | $1000.0 bounty
 3. [Escape sequence injection in "summary" field](https://hackerone.com/reports/226335) | $500.0 bounty

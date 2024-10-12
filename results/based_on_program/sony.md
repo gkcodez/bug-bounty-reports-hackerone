@@ -1,4 +1,4 @@
-## Reports in sony program from HackerOne:
+## Reports in sony program:
 1. [Remote Code Execution (RCE) in a Sony Pictures WebSystem](https://hackerone.com/reports/330028) | $0.0 bounty
 2. [Remote Code Execution (RCE) in a Sony WebSystem](https://hackerone.com/reports/329572) | $0.0 bounty
 3. [Blind User-Agent SQL Injection to Blind Remote OS Command Execution at █████████](https://hackerone.com/reports/1339430) | $0.0 bounty
