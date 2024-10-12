@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "bug-bounty-reports"
+version = "0.1.0"
+description = ""
+authors = ["gkcodez <gopalakrishnan.work@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+selenium = "^4.25.0"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
