@@ -1,5 +1,3 @@
-import os.path
-
 from report import report_fetcher, report_classifier
 from utils import get_filename_from_filepath
 
@@ -28,7 +26,8 @@ if __name__ == '__main__':
     report_entry = f"2. [{filename}]({str(filepath).replace("\\", "/")})"
     read_me_entries.append(report_entry)
 
-    vulnerability_types = sorted({report.get("vulnerability_type") for report in reports if report.get("vulnerability_type")})
+    vulnerability_types = sorted({report.get("vulnerability_type") for report in reports
+                                  if report.get("vulnerability_type")}, key=lambda s: s.lower())
     if len(vulnerability_types):
         read_me_entries.append("\n## Reports based on vulnerability:")
     for i, vulnerability_type in enumerate(vulnerability_types):
@@ -37,7 +36,8 @@ if __name__ == '__main__':
         report_entry = f"{i + 1}. [{filename}]({str(filepath).replace("\\", "/")})"
         read_me_entries.append(report_entry)
 
-    severities = sorted({report.get("severity") for report in reports if report.get("severity")})
+    severities = sorted({report.get("severity") for report in reports if report.get("severity")},
+                        key=lambda s: s.lower())
     if len(severities):
         read_me_entries.append("\n## Reports based on severity:")
     for i, severity in enumerate(severities):
@@ -46,11 +46,22 @@ if __name__ == '__main__':
         report_entry = f"{i + 1}. [{filename}]({str(filepath).replace("\\", "/")})"
         read_me_entries.append(report_entry)
 
-    asset_types = sorted({report.get("asset_type") for report in reports if report.get("asset_type")})
+    asset_types = sorted({report.get("asset_type") for report in reports if report.get("asset_type")},
+                         key=lambda s: s.lower())
     if len(asset_types):
         read_me_entries.append("\n## Reports based on asset type:")
     for i, asset_type in enumerate(asset_types):
         filepath = report_classifier.classify_reports_by_asset_type(reports, asset_type)
+        filename = _get_formatted_filename(filepath)
+        report_entry = f"{i + 1}. [{filename}]({str(filepath).replace("\\", "/")})"
+        read_me_entries.append(report_entry)
+
+    programs = sorted({report.get("program") for report in reports if report.get("program")},
+                      key=lambda s: s.lower())
+    if len(programs):
+        read_me_entries.append("\n## Reports based on program:")
+    for i, program in enumerate(programs):
+        filepath = report_classifier.classify_reports_by_program(reports, program)
         filename = _get_formatted_filename(filepath)
         report_entry = f"{i + 1}. [{filename}]({str(filepath).replace("\\", "/")})"
         read_me_entries.append(report_entry)

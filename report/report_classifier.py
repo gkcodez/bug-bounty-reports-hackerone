@@ -119,6 +119,29 @@ def classify_reports_by_asset_type(reports: list, asset_type: str):
     return relative_path
 
 
+def classify_reports_by_program(reports: list, program: str):
+    formatted_program = _format_text(program)
+    formatted_file_name = formatted_program.replace(" ", "_")
+    relative_path = Path("results", "based_on_program", f"{formatted_file_name}.md")
+    absolute_path = Path(PROJECT_ROOT_DIR, relative_path)
+    absolute_path.parent.mkdir(parents=True, exist_ok=True)
+    filtered_reports = [report for report in reports if _compare_program(
+        formatted_program, _format_text(report.get("program")))]
+    sorted_reports = list(reversed(sorted(filtered_reports, key=lambda k: k['bounty'])))
+    report_entries = []
+    for i, report in enumerate(sorted_reports):
+        title = report.get("title")
+        url = report.get("url")
+        bounty = report.get("bounty")
+        report_entry = f"{i + 1}. [{title}]({url}) | ${bounty} bounty"
+        report_entries.append(report_entry)
+    with open(absolute_path, 'w', encoding='utf-8') as file:
+        file.write(f"## Reports in {formatted_program} program from HackerOne:\n")
+        file.write("\n".join(report_entries))
+    logger.info(f"Reports in '{program}' program updated")
+    return relative_path
+
+
 def _format_text(text: str):
     if not text:
         return None
@@ -151,3 +174,9 @@ def _compare_asset_type(expected_asset_type, actual_asset_type: str):
     if not expected_asset_type or not actual_asset_type:
         return False
     return expected_asset_type.lower() == actual_asset_type.lower()
+
+
+def _compare_program(expected_program, actual_program: str):
+    if not expected_program or not actual_program:
+        return False
+    return expected_program.lower() == actual_program.lower()
