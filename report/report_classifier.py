@@ -23,7 +23,7 @@ def classify_top_100_reports_with_highest_upvotes(reports: list):
         report_entry = f"{i + 1}. [{title}]({url}) | ${bounty} bounty | ${upvotes} upvotes"
         report_entries.append(report_entry)
     with open(absolute_path, 'w', encoding='utf-8') as file:
-        file.write("## Top 100 reports with highest upvotes from HackerOne:\n")
+        file.write("## Top 100 reports with highest upvotes:\n")
         file.write("\n".join(report_entries))
     logger.info("Top 100 reports with highest upvotes updated")
     return relative_path
@@ -43,7 +43,7 @@ def classify_top_100_reports_with_highest_bounty(reports: list):
         report_entry = f"{i + 1}. [{title}]({url}) | ${bounty} bounty"
         report_entries.append(report_entry)
     with open(absolute_path, 'w', encoding='utf-8') as file:
-        file.write("## Top 100 reports with highest bounty from HackerOne:\n")
+        file.write("## Top 100 reports with highest bounty:\n")
         file.write("\n".join(report_entries))
     logger.info("Top 100 reports with highest bounties updated")
     return relative_path
@@ -66,7 +66,7 @@ def classify_reports_by_vulnerability_type(reports: list, vulnerability_type: st
         report_entry = f"{i + 1}. [{title}]({url}) | ${bounty} bounty"
         report_entries.append(report_entry)
     with open(absolute_path, 'w', encoding='utf-8') as file:
-        file.write(f"## Reports in {formatted_vulnerability_type} category from HackerOne:\n")
+        file.write(f"## Reports in {formatted_vulnerability_type} category:\n")
         file.write("\n".join(report_entries))
     logger.info(f"Reports in '{vulnerability_type}' vulnerability type updated")
     return relative_path
@@ -89,7 +89,7 @@ def classify_reports_by_severity(reports: list, severity: str):
         report_entry = f"{i + 1}. [{title}]({url}) | ${bounty} bounty"
         report_entries.append(report_entry)
     with open(absolute_path, 'w', encoding='utf-8') as file:
-        file.write(f"## Reports in {formatted_severity} severity from HackerOne:\n")
+        file.write(f"## Reports in {formatted_severity} severity:\n")
         file.write("\n".join(report_entries))
     logger.info(f"Reports in '{severity}' severity updated")
     return relative_path
@@ -113,7 +113,7 @@ def classify_reports_by_asset_type(reports: list, asset_type: str):
         report_entry = f"{i + 1}. [{title}]({url}) | ${bounty} bounty"
         report_entries.append(report_entry)
     with open(absolute_path, 'w', encoding='utf-8') as file:
-        file.write(f"\n## Reports in {formatted_asset_type} asset type from HackerOne:")
+        file.write(f"\n## Reports in {formatted_asset_type} asset type:")
         file.write("\n".join(report_entries))
     logger.info(f"Reports in '{asset_type}' asset type updated")
     return relative_path
@@ -136,7 +136,7 @@ def classify_reports_by_program(reports: list, program: str):
         report_entry = f"{i + 1}. [{title}]({url}) | ${bounty} bounty"
         report_entries.append(report_entry)
     with open(absolute_path, 'w', encoding='utf-8') as file:
-        file.write(f"## Reports in {formatted_program} program from HackerOne:\n")
+        file.write(f"## Reports in {formatted_program} program:\n")
         file.write("\n".join(report_entries))
     logger.info(f"Reports in '{program}' program updated")
     return relative_path
