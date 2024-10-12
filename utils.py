@@ -1,5 +1,6 @@
 import json
 import os
+from pathlib import Path
 
 from log import logger
 
@@ -22,3 +23,8 @@ def write_to_json(filename, report_data):
 
 def get_project_root_dir():
     return os.path.dirname(os.path.abspath(__file__))
+
+
+def get_filename_from_filepath(filepath: Path):
+    directory_name, filename = os.path.split(filepath)
+    return filename
