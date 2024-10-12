@@ -28,7 +28,7 @@ if __name__ == '__main__':
     report_entry = f"2. [{filename}]({filepath})"
     read_me_entries.append(report_entry)
 
-    vulnerability_types = {report.get("vulnerability_type") for report in reports if report.get("vulnerability_type")}
+    vulnerability_types = sorted({report.get("vulnerability_type") for report in reports if report.get("vulnerability_type")})
     if len(vulnerability_types):
         read_me_entries.append("\n## Reports based on vulnerability:")
     for i, vulnerability_type in enumerate(vulnerability_types):
@@ -37,7 +37,7 @@ if __name__ == '__main__':
         report_entry = f"{i + 1}. [{filename}]({filepath})"
         read_me_entries.append(report_entry)
 
-    severities = {report.get("severity") for report in reports if report.get("severity")}
+    severities = sorted({report.get("severity") for report in reports if report.get("severity")})
     if len(severities):
         read_me_entries.append("\n## Reports based on severity:")
     for i, severity in enumerate(severities):
@@ -46,7 +46,7 @@ if __name__ == '__main__':
         report_entry = f"{i + 1}. [{filename}]({filepath})"
         read_me_entries.append(report_entry)
 
-    asset_types = {report.get("asset_type") for report in reports if report.get("asset_type")}
+    asset_types = sorted({report.get("asset_type") for report in reports if report.get("asset_type")})
     if len(asset_types):
         read_me_entries.append("\n## Reports based on asset type:")
     for i, asset_type in enumerate(asset_types):
