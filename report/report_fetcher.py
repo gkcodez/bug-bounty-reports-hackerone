@@ -4,9 +4,12 @@ from selenium.webdriver import Edge, EdgeOptions
 from selenium.webdriver.common.by import By
 from urllib.parse import urljoin
 
+from selenium.webdriver.support import expected_conditions
+from selenium.webdriver.support.wait import WebDriverWait
+
 from log import logger
 
-from utils import read_from_json, write_to_json
+from utils import read_from_json_file, write_to_json_file
 from models.report import Report
 
 hackerone_base_url = "https://hackerone.com"
@@ -25,18 +28,18 @@ def fetch_report_links():
         logger.info("Fetching report links started")
         fetch_report_start_time = time.time()
         options = EdgeOptions()
-        options.add_argument('no-sandbox')
+        # options.add_argument('no-sandbox')
         options.add_argument('headless')
         driver = Edge(options=options)
         # Wait with timeout of 10 seconds.
-        driver.implicitly_wait(10)
-        new_report_list = []
+        driver.implicitly_wait(15)
+        new_reports = []
         page_size = 25
-        report_data = read_from_json("reports.json")
-        existing_report_list = report_data.get("reports") if report_data.get("reports") else []
-        latest_report = existing_report_list[0] if len(existing_report_list) > 0 else None
+        existing_reports = read_reports()
+        latest_report = existing_reports[0] if len(existing_reports) > 0 else None
         current_page_count = 1
-        while current_page_count == 1:
+        total_page_count = 0
+        while True:
             current_page_index = current_page_count - 1
             hacktivity_url = get_current_url(current_page_index)
             driver.get(hacktivity_url)
@@ -44,50 +47,50 @@ def fetch_report_links():
                 By.XPATH,
                 "//div[@data-testid='report-title']//parent::a"
             )
-            report_list_updated = None
+            reports_updated = False
             for current_page_report in current_page_reports:
-                current_report_object = Report()
+                current_report = Report()
                 current_report_path = current_page_report.get_attribute("href")
-                current_report_url = urljoin(hackerone_base_url, current_report_path)
-                current_report_object.url = current_report_url
-                report_list_updated = latest_report and current_report_url == latest_report.get("url")
-                if report_list_updated:
+                current_report.url = urljoin(hackerone_base_url, current_report_path)
+                reports_updated = latest_report and current_report.url == latest_report.get("url")
+                if reports_updated:
                     break
-                new_report_list.append(vars(current_report_object))
-            if report_list_updated:
+                new_reports.append(vars(current_report))
+            if reports_updated:
                 logger.info("Reports updated to latest")
                 break
-            page_element = driver.find_element(
-                By.XPATH,
-                "//button[@data-testid='hacktivity-previous-button']//parent::div//preceding-sibling::p"
-            )
-            page_element_text = page_element.text
-            page_counts = page_element_text.split("of")
-            # current_range = page_counts[0]
-            # report_number = current_range.split("-")
-            # start_count = int(report_number[0])
-            # end_count = int(report_number[1])
-            total_report_count = int(page_counts[1])
-            total_page_count = total_report_count // page_size
+            if current_page_count == 1:
+                page_element = WebDriverWait(driver, 3).until(
+                    expected_conditions.visibility_of_element_located((
+                        By.XPATH,
+                        "//button[@data-testid='hacktivity-previous-button']//parent::div//preceding-sibling::p"
+                    )))
+                page_element_text = page_element.text
+                # Fetch total number of reports from pagination text
+                page_counts = page_element_text.split("of")
+                total_report_count = int(page_counts[1])
+                logger.info(f"Total number of reports: {total_report_count}")
+                # Find total number of pages
+                total_page_count = total_report_count // page_size
+                logger.info(f"Total number of pages: {total_page_count}")
             logger.info(f"Fetching page {current_page_count} of {total_page_count}")
             if current_page_count != total_page_count:
                 current_page_count += 1
             else:
                 logger.info("Fetching completed.")
                 break
-        logger.info(f"Existing reports count: {len(existing_report_list)}")
-        logger.info(f"New reports count: {len(new_report_list)}")
-        report_list = new_report_list + existing_report_list
-        logger.info(f"Total reports count: {len(report_list)}")
+        logger.info(f"Existing reports count: {len(existing_reports)}")
+        logger.info(f"New reports count: {len(new_reports)}")
+        all_reports = new_reports + existing_reports
+        logger.info(f"Total reports count: { len(all_reports)}")
         # Remove duplicates.
-        unique_report_list = []
-        for report in report_list:
-            if report not in unique_report_list:
-                unique_report_list.append(report)
-        unique_reports_count = len(unique_report_list)
-        logger.info(f"Unique reports count: {unique_reports_count}")
-        report_data = {"reports": unique_report_list}
-        write_to_json("reports.json", report_data)
+        unique_reports = []
+        for report in all_reports:
+            if report not in unique_reports:
+                unique_reports.append(report)
+        logger.info(f"Unique reports count: {len(unique_reports)}")
+        logger.info(f"Duplicate reports count: { len(all_reports) - len(unique_reports)}")
+        write_reports(unique_reports)
         logger.info("Fetch report links successful")
         fetch_report_end_time = time.time()
         duration = fetch_report_end_time - fetch_report_start_time
@@ -102,8 +105,7 @@ def fetch_additional_report_details():
     try:
         logger.info("Fetching additional report details started")
         fetch_report_start_time = time.time()
-        report_data = read_from_json("reports.json")
-        reports = report_data.get("reports") if report_data.get("reports") else []
+        reports = read_reports()
         reports_count = len(reports)
         # Fetch additional details.
         for i, report in enumerate(reports):
@@ -136,8 +138,7 @@ def fetch_additional_report_details():
             report['submitted_at'] = submitted_at
             report['disclosed_at'] = disclosed_at
             time.sleep(0.1)
-        report_data = {"reports": reports}
-        write_to_json("reports.json", report_data)
+        write_reports(reports)
         logger.info("Fetch additional report details successful")
         fetch_report_end_time = time.time()
         duration = fetch_report_end_time - fetch_report_start_time
@@ -146,7 +147,16 @@ def fetch_additional_report_details():
         raise Exception(e)
 
 
-def get_reports():
-    reports_json = read_from_json("data\\reports.json")
-    reports = reports_json.get("reports")
+def read_reports():
+    reports_path = "data\\reports.json"
+    reports_json = read_from_json_file(reports_path)
+    reports = reports_json.get("reports") if reports_json.get("reports") else []
+    logger.info(f"Read reports successful. Reports read from '{reports_path}'")
     return reports
+
+
+def write_reports(reports: list):
+    reports_path = "data\\reports.json"
+    report_data = {"reports": reports}
+    write_to_json_file(reports_path, report_data)
+    logger.info(f"Write reports successful. Reports updated to '{reports_path}'")
