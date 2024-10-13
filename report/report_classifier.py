@@ -19,7 +19,7 @@ def classify_recently_disclosed_reports(reports: list, recent_days=90):
         report for report in sorted_reports
         if (datetime.now() - datetime.strptime(report['disclosed_at'] if report['disclosed_at'] else "",
                                                '%Y-%m-%dT%H:%M:%S.%fZ')).days < recent_days]
-    report_entries.append("| S.No | Title | Bounty | Submitted_at | Disclosed_at |")
+    report_entries.append("| S.No | Title | Bounty | Submitted_At | Disclosed_At |")
     report_entries.append("| ---- | ----- | ------ | ------------ | ------------ |")
     for i, report in enumerate(recently_disclosed_reports):
         title = _format_title(report.get("title"))
