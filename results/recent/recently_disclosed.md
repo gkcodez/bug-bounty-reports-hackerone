@@ -1,5 +1,5 @@
 ## Reports disclosed in the last 90 days:
-| S.No | Title | Bounty | Submitted_at | Disclosed_at |
+| S.No | Title | Bounty | Submitted_At | Disclosed_At |
 | ---- | ----- | ------ |--------------|--------------|
 | 1 | [IDOR vulnerability leads to Deleting message after leaving/getting banned from group using message ID](https://hackerone.com/reports/2028450) | $0.0 | 2023-06-16   | 2024-10-13   |
 | 2 | [SAML Signature verification bypass allows logging into any user (with specific conditions)](https://hackerone.com/reports/2579939) | $25000.0 | 2024-06-27   | 2024-10-10   |
