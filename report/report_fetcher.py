@@ -33,7 +33,7 @@ def fetch_report_links():
         fetch_report_start_time = time.time()
         options = EdgeOptions()
         # options.add_argument('no-sandbox')
-        # options.add_argument('headless')
+        options.add_argument('headless')
         driver = Edge(options=options)
         # Wait with timeout of 10 seconds.
         driver.implicitly_wait(10)

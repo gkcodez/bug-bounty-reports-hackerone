@@ -84,11 +84,7 @@ def add_reports_by_program(reports):
         read_me_entries.append(report_entry)
 
 
-def get_results():
-    return read_me_entries
-
-
-def write_results_to_file():
+def write_results():
     with open("README.md", 'w', encoding='utf-8') as file:
         file.write("\n".join(read_me_entries))
 

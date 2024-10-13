@@ -14,15 +14,15 @@ def classify_recently_disclosed_reports(reports: list, recent_days=90):
     absolute_path = Path(PROJECT_ROOT_DIR, relative_path)
     absolute_path.parent.mkdir(parents=True, exist_ok=True)
     sorted_reports = list(reversed(sorted(
-        reports, key=lambda k: datetime.strptime(k['disclosed_at'], '%Y-%m-%dT%H:%M:%S.%fZ'))))
+        reports, key=lambda k: datetime.strptime(k['disclosed_at'] if k['disclosed_at'] else "", '%Y-%m-%dT%H:%M:%S.%fZ'))))
     recently_disclosed_reports = [
         report for report in sorted_reports
-        if (datetime.now() - datetime.strptime(report['disclosed_at'],
+        if (datetime.now() - datetime.strptime(report['disclosed_at'] if report['disclosed_at'] else "",
                                                '%Y-%m-%dT%H:%M:%S.%fZ')).days < recent_days]
     report_entries.append("| S.No | Title | Bounty | Submitted at | Disclosed at |")
     report_entries.append("| ---- | ----- | ------ | ------------ | ------------ |")
     for i, report in enumerate(recently_disclosed_reports):
-        title = report.get("title")
+        title = _format_title(report.get("title"))
         url = report.get("url")
         bounty = report.get("bounty")
         disclosed_at = datetime.strptime(report.get("disclosed_at"), '%Y-%m-%dT%H:%M:%S.%fZ').strftime("%Y-%m-%d")
@@ -46,7 +46,7 @@ def classify_top_100_reports_with_highest_upvotes(reports: list):
     report_entries.append("| S.No | Title | Bounty | Upvotes |")
     report_entries.append("| ---- | ----- | ------ | ------- |")
     for i, report in enumerate(top100_sorted_reports):
-        title = report.get("title")
+        title = _format_title(report.get("title"))
         url = report.get("url")
         bounty = report.get("bounty")
         upvotes = report.get("upvotes")
@@ -69,7 +69,7 @@ def classify_top_100_reports_with_highest_bounty(reports: list):
     report_entries.append("| S.No | Title | Bounty |")
     report_entries.append("| ---- | ----- | ------ |")
     for i, report in enumerate(top100_sorted_reports):
-        title = report.get("title")
+        title = _format_title(report.get("title"))
         url = report.get("url")
         bounty = report.get("bounty")
         report_entry = f"| {i + 1} | [{title}]({url}) | ${bounty} |"
@@ -94,7 +94,7 @@ def classify_reports_by_vulnerability_type(reports: list, vulnerability_type: st
     report_entries.append("| S.No | Title | Bounty |")
     report_entries.append("| ---- | ----- | ------ |")
     for i, report in enumerate(sorted_reports):
-        title = report.get("title")
+        title = _format_title(report.get("title"))
         url = report.get("url")
         bounty = report.get("bounty")
         report_entry = f"| {i + 1} | [{title}]({url}) | ${bounty} |"
@@ -120,7 +120,7 @@ def classify_reports_by_severity(reports: list, severity: str):
     report_entries.append("| S.No | Title | Bounty |")
     report_entries.append("| ---- | ----- | ------ |")
     for i, report in enumerate(sorted_reports):
-        title = report.get("title")
+        title = _format_title(report.get("title"))
         url = report.get("url")
         bounty = report.get("bounty")
         report_entry = f"| {i + 1} | [{title}]({url}) | ${bounty} |"
@@ -146,7 +146,7 @@ def classify_reports_by_asset_type(reports: list, asset_type: str):
     report_entries.append("| S.No | Title | Bounty |")
     report_entries.append("| ---- | ----- | ------ |")
     for i, report in enumerate(sorted_reports):
-        title = report.get("title")
+        title = _format_title(report.get("title"))
         url = report.get("url")
         bounty = report.get("bounty")
         report_entry = f"| {i + 1} | [{title}]({url}) | ${bounty} |"
@@ -171,7 +171,7 @@ def classify_reports_by_program(reports: list, program: str):
     report_entries.append("| S.No | Title | Bounty |")
     report_entries.append("| ---- | ----- | ------ |")
     for i, report in enumerate(sorted_reports):
-        title = report.get("title")
+        title = _format_title(report.get("title"))
         url = report.get("url")
         bounty = report.get("bounty")
         report_entry = f"| {i + 1} | [{title}]({url}) | ${bounty} |"
@@ -197,6 +197,10 @@ def _format_text(text: str):
         formatted_text = re.sub(r"\s+", " ", formatted_text).strip()
         return formatted_text
     return None
+
+
+def _format_title(title: str):
+    return title.replace("|", "&#124;")
 
 
 def _compare_vulnerability_type(expected_vulnerability_type, actual_vulnerability_type: str):
