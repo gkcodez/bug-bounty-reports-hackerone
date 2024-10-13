@@ -1,4 +1,6 @@
 import time
+import urllib
+
 import requests
 from selenium.webdriver import Edge, EdgeOptions
 from selenium.webdriver.common.by import By
@@ -16,7 +18,9 @@ hackerone_base_url = "https://hackerone.com"
 
 
 def get_current_url(page_index):
-    query_string = f"disclosed=true&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex={page_index}"
+    sort_field = "latest_disclosable_activity_at"
+    sort_direction = "DESC"
+    query_string = f"disclosed%3Atrue&sortField={sort_field}&sortDirection={sort_direction}&pageIndex={page_index}"
     hacktivity_path = f"hacktivity/overview?queryString={query_string}"
     hacktivity_url = urljoin(hackerone_base_url, hacktivity_path)
     return hacktivity_url
@@ -29,10 +33,10 @@ def fetch_report_links():
         fetch_report_start_time = time.time()
         options = EdgeOptions()
         # options.add_argument('no-sandbox')
-        options.add_argument('headless')
+        # options.add_argument('headless')
         driver = Edge(options=options)
         # Wait with timeout of 10 seconds.
-        driver.implicitly_wait(15)
+        driver.implicitly_wait(10)
         new_reports = []
         page_size = 25
         existing_reports = read_reports()
@@ -82,14 +86,14 @@ def fetch_report_links():
         logger.info(f"Existing reports count: {len(existing_reports)}")
         logger.info(f"New reports count: {len(new_reports)}")
         all_reports = new_reports + existing_reports
-        logger.info(f"Total reports count: { len(all_reports)}")
+        logger.info(f"Total reports count: {len(all_reports)}")
         # Remove duplicates.
         unique_reports = []
         for report in all_reports:
             if report not in unique_reports:
                 unique_reports.append(report)
         logger.info(f"Unique reports count: {len(unique_reports)}")
-        logger.info(f"Duplicate reports count: { len(all_reports) - len(unique_reports)}")
+        logger.info(f"Duplicate reports count: {len(all_reports) - len(unique_reports)}")
         write_reports(unique_reports)
         logger.info("Fetch report links successful")
         fetch_report_end_time = time.time()
